@@ -1,0 +1,480 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="Show more" section_id="83223686db97320023bfddd0cf9619c2" sys_domain="global" table="x_129382_crmnow_leads" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>alternate_address_city</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-13 13:35:36</sys_created_on>
+            <sys_id>dcc27a86db97320023bfddd0cf961976</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Show more" display_value="Show more" name="x_129382_crmnow_leads" sys_domain="global" view="Default view">83223686db97320023bfddd0cf9619c2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-13 13:35:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_department</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-13 13:35:36</sys_created_on>
+            <sys_id>50c27a86db97320023bfddd0cf961977</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Show more" display_value="Show more" name="x_129382_crmnow_leads" sys_domain="global" view="Default view">83223686db97320023bfddd0cf9619c2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-13 13:35:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_fax</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-13 13:35:36</sys_created_on>
+            <sys_id>d0c27a86db97320023bfddd0cf961977</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Show more" display_value="Show more" name="x_129382_crmnow_leads" sys_domain="global" view="Default view">83223686db97320023bfddd0cf9619c2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-13 13:35:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_alternate_address_state</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-13 13:35:36</sys_created_on>
+            <sys_id>54c27a86db97320023bfddd0cf961977</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Show more" display_value="Show more" name="x_129382_crmnow_leads" sys_domain="global" view="Default view">83223686db97320023bfddd0cf9619c2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-13 13:35:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_alternate_address_street</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-13 13:35:36</sys_created_on>
+            <sys_id>d4c27a86db97320023bfddd0cf961977</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Show more" display_value="Show more" name="x_129382_crmnow_leads" sys_domain="global" view="Default view">83223686db97320023bfddd0cf9619c2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-13 13:35:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_description</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-13 13:35:36</sys_created_on>
+            <sys_id>58c27a86db97320023bfddd0cf961977</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Show more" display_value="Show more" name="x_129382_crmnow_leads" sys_domain="global" view="Default view">83223686db97320023bfddd0cf9619c2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-13 13:35:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_alternate_address_country</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-13 13:35:36</sys_created_on>
+            <sys_id>d8c27a86db97320023bfddd0cf961977</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Show more" display_value="Show more" name="x_129382_crmnow_leads" sys_domain="global" view="Default view">83223686db97320023bfddd0cf9619c2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-13 13:35:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assistant</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-13 13:35:36</sys_created_on>
+            <sys_id>5cc27a86db97320023bfddd0cf961977</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Show more" display_value="Show more" name="x_129382_crmnow_leads" sys_domain="global" view="Default view">83223686db97320023bfddd0cf9619c2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-13 13:35:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>alternate_address_postal_code</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-13 13:35:36</sys_created_on>
+            <sys_id>dcc27a86db97320023bfddd0cf961977</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Show more" display_value="Show more" name="x_129382_crmnow_leads" sys_domain="global" view="Default view">83223686db97320023bfddd0cf9619c2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-13 13:35:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_portal_application</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-13 13:35:36</sys_created_on>
+            <sys_id>50c27a86db97320023bfddd0cf961978</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Show more" display_value="Show more" name="x_129382_crmnow_leads" sys_domain="global" view="Default view">83223686db97320023bfddd0cf9619c2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-13 13:35:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_opportunity_name</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-13 13:35:36</sys_created_on>
+            <sys_id>d0c27a86db97320023bfddd0cf961978</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Show more" display_value="Show more" name="x_129382_crmnow_leads" sys_domain="global" view="Default view">83223686db97320023bfddd0cf9619c2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-13 13:35:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-13 13:35:36</sys_created_on>
+            <sys_id>54c27a86db97320023bfddd0cf961978</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Show more" display_value="Show more" name="x_129382_crmnow_leads" sys_domain="global" view="Default view">83223686db97320023bfddd0cf9619c2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-13 13:35:36</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_twitter_account</element>
+            <position>12</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-13 13:35:36</sys_created_on>
+            <sys_id>e4c27a86db97320023bfddd0cf961978</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Show more" display_value="Show more" name="x_129382_crmnow_leads" sys_domain="global" view="Default view">83223686db97320023bfddd0cf9619c2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-13 13:35:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_lead_source</element>
+            <position>13</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-13 13:35:36</sys_created_on>
+            <sys_id>68c27a86db97320023bfddd0cf961978</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Show more" display_value="Show more" name="x_129382_crmnow_leads" sys_domain="global" view="Default view">83223686db97320023bfddd0cf9619c2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-13 13:35:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_google_plus_id</element>
+            <position>14</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-13 13:35:36</sys_created_on>
+            <sys_id>e8c27a86db97320023bfddd0cf961978</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Show more" display_value="Show more" name="x_129382_crmnow_leads" sys_domain="global" view="Default view">83223686db97320023bfddd0cf9619c2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-13 13:35:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_home_phone</element>
+            <position>15</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-13 13:35:36</sys_created_on>
+            <sys_id>6cc27a86db97320023bfddd0cf961978</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Show more" display_value="Show more" name="x_129382_crmnow_leads" sys_domain="global" view="Default view">83223686db97320023bfddd0cf9619c2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-13 13:35:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_other_phone</element>
+            <position>16</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-13 13:35:36</sys_created_on>
+            <sys_id>ecc27a86db97320023bfddd0cf961978</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Show more" display_value="Show more" name="x_129382_crmnow_leads" sys_domain="global" view="Default view">83223686db97320023bfddd0cf9619c2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-13 13:35:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_facebook_account</element>
+            <position>17</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-13 13:35:36</sys_created_on>
+            <sys_id>60c27a86db97320023bfddd0cf961979</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Show more" display_value="Show more" name="x_129382_crmnow_leads" sys_domain="global" view="Default view">83223686db97320023bfddd0cf9619c2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-13 13:35:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_primary_address_atreet</element>
+            <position>18</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-13 13:35:36</sys_created_on>
+            <sys_id>e0c27a86db97320023bfddd0cf961979</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Show more" display_value="Show more" name="x_129382_crmnow_leads" sys_domain="global" view="Default view">83223686db97320023bfddd0cf9619c2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-13 13:35:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>primary_address_city</element>
+            <position>19</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-13 13:35:36</sys_created_on>
+            <sys_id>64c27a86db97320023bfddd0cf961979</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Show more" display_value="Show more" name="x_129382_crmnow_leads" sys_domain="global" view="Default view">83223686db97320023bfddd0cf9619c2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-13 13:35:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>primary_address_state</element>
+            <position>20</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-13 13:35:36</sys_created_on>
+            <sys_id>e4c27a86db97320023bfddd0cf961979</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Show more" display_value="Show more" name="x_129382_crmnow_leads" sys_domain="global" view="Default view">83223686db97320023bfddd0cf9619c2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-13 13:35:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>referred_by</element>
+            <position>21</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-13 13:35:36</sys_created_on>
+            <sys_id>68c27a86db97320023bfddd0cf961979</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Show more" display_value="Show more" name="x_129382_crmnow_leads" sys_domain="global" view="Default view">83223686db97320023bfddd0cf9619c2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-13 13:35:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_primary_address_country</element>
+            <position>22</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-13 13:35:36</sys_created_on>
+            <sys_id>e8c27a86db97320023bfddd0cf961979</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Show more" display_value="Show more" name="x_129382_crmnow_leads" sys_domain="global" view="Default view">83223686db97320023bfddd0cf9619c2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-13 13:35:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_assistant_phone</element>
+            <position>23</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-13 13:35:36</sys_created_on>
+            <sys_id>6cc27a86db97320023bfddd0cf961979</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Show more" display_value="Show more" name="x_129382_crmnow_leads" sys_domain="global" view="Default view">83223686db97320023bfddd0cf9619c2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-13 13:35:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_language_preference</element>
+            <position>24</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-13 13:35:36</sys_created_on>
+            <sys_id>ecc27a86db97320023bfddd0cf961979</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Show more" display_value="Show more" name="x_129382_crmnow_leads" sys_domain="global" view="Default view">83223686db97320023bfddd0cf9619c2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-13 13:35:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>status_description</element>
+            <position>25</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-13 13:35:36</sys_created_on>
+            <sys_id>60c27a86db97320023bfddd0cf96197a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Show more" display_value="Show more" name="x_129382_crmnow_leads" sys_domain="global" view="Default view">83223686db97320023bfddd0cf9619c2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-13 13:35:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_lead_source_description</element>
+            <position>26</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-13 13:35:36</sys_created_on>
+            <sys_id>e0c27a86db97320023bfddd0cf96197a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Show more" display_value="Show more" name="x_129382_crmnow_leads" sys_domain="global" view="Default view">83223686db97320023bfddd0cf9619c2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-13 13:35:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_account_description</element>
+            <position>27</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-13 13:35:36</sys_created_on>
+            <sys_id>64c27a86db97320023bfddd0cf96197a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Show more" display_value="Show more" name="x_129382_crmnow_leads" sys_domain="global" view="Default view">83223686db97320023bfddd0cf9619c2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-13 13:35:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_portal_name</element>
+            <position>28</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-13 13:35:36</sys_created_on>
+            <sys_id>e4c27a86db97320023bfddd0cf96197a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Show more" display_value="Show more" name="x_129382_crmnow_leads" sys_domain="global" view="Default view">83223686db97320023bfddd0cf9619c2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-13 13:35:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_primary_address_postal_code</element>
+            <position>29</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-13 13:35:36</sys_created_on>
+            <sys_id>68c27a86db97320023bfddd0cf96197a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Show more" display_value="Show more" name="x_129382_crmnow_leads" sys_domain="global" view="Default view">83223686db97320023bfddd0cf9619c2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-13 13:35:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_birthdate</element>
+            <position>30</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-13 13:35:36</sys_created_on>
+            <sys_id>e8c27a86db97320023bfddd0cf96197a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Show more" display_value="Show more" name="x_129382_crmnow_leads" sys_domain="global" view="Default view">83223686db97320023bfddd0cf9619c2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-13 13:35:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_opportunity_amount</element>
+            <position>31</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-13 13:35:36</sys_created_on>
+            <sys_id>6cc27a86db97320023bfddd0cf96197a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Show more" display_value="Show more" name="x_129382_crmnow_leads" sys_domain="global" view="Default view">83223686db97320023bfddd0cf9619c2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-13 13:35:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Show more</caption>
+            <header>false</header>
+            <name>x_129382_crmnow_leads</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-13 13:33:02</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>83223686db97320023bfddd0cf9619c2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Show more</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="CRMNow" source="x_129382_crmnow">adfaaf81db13320023bfddd0cf9619d7</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="CRMNow">adfaaf81db13320023bfddd0cf9619d7</sys_scope>
+            <sys_update_name>sys_ui_section_83223686db97320023bfddd0cf9619c2</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-13 13:33:02</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

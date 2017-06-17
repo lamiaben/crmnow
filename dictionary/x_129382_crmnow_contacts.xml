@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Contacts" max_length="40" name="x_129382_crmnow_contacts" type="collection">
+        <element label="Assigned user" max_length="32" name="assigned_user" reference="sys_user" type="reference"/>
+        <element label="Facebook account" max_length="100" name="facebook_account" type="string"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Primary address country" max_length="100" name="primary_address_country" type="string"/>
+        <element label="Account name" max_length="32" name="u_account_name" reference="x_129382_crmnow_accounts" type="reference"/>
+        <element label="Alternate address city" max_length="100" name="u_alternate_address_city" type="string"/>
+        <element label="Alternate address country" max_length="100" name="u_alternate_address_country" type="string"/>
+        <element label="Alternate address postal code" max_length="100" name="u_alternate_address_postal_code" type="string"/>
+        <element label="Alternate Address State" max_length="100" name="u_alternate_address_state" type="string"/>
+        <element label="Alternate address street" max_length="100" name="u_alternate_address_street" type="string"/>
+        <element label="Assistant" max_length="100" name="u_assistant" type="string"/>
+        <element label="Assistant phone" max_length="40" name="u_assistant_phone" type="phone_number_e164"/>
+        <element label="Avatar" max_length="40" name="u_avatar" type="user_image"/>
+        <element label="Birthdate" max_length="40" name="u_birthdate" type="glide_date"/>
+        <element label="Department" max_length="255" name="u_department" type="string"/>
+        <element label="Description" max_length="500" name="u_description" type="string"/>
+        <element label="Do not call" max_length="40" name="u_do_not_call" type="boolean"/>
+        <element label="Email" max_length="100" name="u_email" type="string"/>
+        <element label="Fax" max_length="40" name="u_fax" type="phone_number_e164"/>
+        <element label="First name" max_length="100" name="u_first_name" type="string"/>
+        <element label="Google Plus ID" max_length="100" name="u_google_plus_id" type="string"/>
+        <element label="Home phone" max_length="40" name="u_home_phone" type="phone_number_e164"/>
+        <element choice="1" label="Language preference" max_length="40" name="u_language_preference" type="choice">
+            <choice>
+                <element label="English (US)" sequence="0" value="English (US)"/>
+                <element label="Deutsch" sequence="1" value="Deutsch"/>
+                <element label="Français" sequence="2" value="Français"/>
+                <element label="Español" sequence="3" value="Español"/>
+                <element label="English (UK)" sequence="4" value="English (UK)"/>
+            </choice>
+        </element>
+        <element label="Last name" mandatory="true" max_length="100" name="u_last_name" type="string"/>
+        <element choice="1" label="Lead source" max_length="40" name="u_lead_source" type="choice">
+            <choice>
+                <element label="Cold Call" sequence="0" value="Cold Call"/>
+                <element label="Existing Customer" sequence="1" value="Existing Customer"/>
+                <element label="Self Generated" sequence="2" value="Self Generated"/>
+                <element label="Employee" sequence="3" value="Employee"/>
+                <element label="Partner" sequence="4" value="Partner"/>
+                <element label="Public Relations" sequence="5" value="Public Relations"/>
+                <element label="Direct Mail" sequence="6" value="Direct Mail"/>
+                <element label="Conference" sequence="7" value="Conference"/>
+                <element label="Trade Show" sequence="8" value="Trade Show"/>
+                <element label="Web Site" sequence="9" value="Web Site"/>
+                <element label="Word of mouth" sequence="10" value="Word of mouth"/>
+                <element label="Email" sequence="11" value="Email"/>
+                <element label="Support Portal User Registration" sequence="12" value="Support Portal User Registration"/>
+                <element label="Other" sequence="13" value="Other"/>
+            </choice>
+        </element>
+        <element label="Mobile phone" max_length="40" name="u_mobile_phone" type="phone_number_e164"/>
+        <element label="Office phone" max_length="40" name="u_office_phone" type="phone_number_e164"/>
+        <element label="Other phone" max_length="40" name="u_other_phone" type="phone_number_e164"/>
+        <element label="portal_active" max_length="40" name="u_portal_active" type="boolean"/>
+        <element label="Portal application" max_length="1024" name="u_portal_application" type="url"/>
+        <element label="Portal name" max_length="100" name="u_portal_name" type="string"/>
+        <element label="Portal password" max_length="40" name="u_portal_password" type="password"/>
+        <element label="Primary address city" max_length="100" name="u_primary_address_city" type="string"/>
+        <element label="Primary address postal code" max_length="100" name="u_primary_address_postal_code" type="string"/>
+        <element label="Primary address state" max_length="100" name="u_primary_address_state" type="string"/>
+        <element label="Primary address street" max_length="100" name="u_primary_address_street" type="string"/>
+        <element choice="1" label="Salutation" max_length="40" name="u_salutation" type="choice">
+            <choice>
+                <element label="Mr" sequence="0" value="Mr"/>
+                <element label="Ms" sequence="1" value="Ms"/>
+                <element label="Mrs" sequence="2" value="Mrs"/>
+            </choice>
+        </element>
+        <element label="Title" max_length="40" name="u_title" type="string"/>
+        <element label="Twitter account" max_length="100" name="u_twitter_account" type="string"/>
+        <index name="index">
+            <element name="u_account_name"/>
+        </index>
+        <index name="index2">
+            <element name="assigned_user"/>
+        </index>
+    </element>
+</database>

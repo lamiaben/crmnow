@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element audit="true" label="Opportunities" max_length="40" name="x_129382_crmnow_opportunities" type="collection">
+        <element label="Account name" max_length="32" name="account_name" reference="x_129382_crmnow_accounts" reference_qual="u_short_descriptionSTARTSWITH^EQ" reference_qual_condition="u_short_descriptionSTARTSWITH^EQ" type="reference"/>
+        <element label="Assigned user" max_length="32" name="assigned_user" reference="sys_user" type="reference"/>
+        <element label="Best" max_length="20" name="best" type="currency"/>
+        <element label="Converted amount" max_length="20" name="converted_amount" type="glide_date"/>
+        <element label="Currency Rate" max_length="100" name="currency_rate" type="string"/>
+        <element label="Description" max_length="500" name="description" type="string"/>
+        <element label="Expected close date" max_length="40" name="expected_close_date" type="glide_date"/>
+        <element label="Expected close date timestamp" max_length="40" name="expected_close_date_timestamp" type="glide_date_time"/>
+        <element choice="1" label="Lead source" max_length="40" name="lead_source" type="choice">
+            <choice>
+                <element label="Cold Call" sequence="0" value="Cold Call"/>
+                <element label="Existing Customer" sequence="1" value="Existing Customer"/>
+                <element label="Self Generated" sequence="2" value="Self Generated"/>
+                <element label="Employee" sequence="3" value="Employee"/>
+                <element label="Partner" sequence="4" value="Partner"/>
+                <element label="Public Relations" sequence="5" value="Public Relations"/>
+                <element label="Direct Mail" sequence="6" value="Direct Mail"/>
+                <element label="Conference" sequence="7" value="Conference"/>
+                <element label="Trade Show" sequence="8" value="Trade Show"/>
+                <element label="Web Site" sequence="9" value="Web Site"/>
+                <element label="Word of mouth" sequence="10" value="Word of mouth"/>
+                <element label="Email" sequence="11" value="Email"/>
+                <element label="Campaign" sequence="12" value="Campaign"/>
+                <element label="Support Portal User Registration" sequence="13" value="Support Portal User Registration"/>
+                <element label="Other" sequence="14" value="Other"/>
+            </choice>
+        </element>
+        <element label="Likely" max_length="20" name="likely" type="currency"/>
+        <element label="Next step" max_length="255" name="next_step" type="string"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element choice="1" label="Opportunity type" max_length="40" name="opportunity_type" type="choice">
+            <choice>
+                <element label="Existing Business" sequence="0" value="Existing Business"/>
+                <element label="New Business" sequence="1" value="New Business"/>
+            </choice>
+        </element>
+        <element choice="1" label="Status" max_length="40" name="status" type="choice">
+            <choice>
+                <element label="New" sequence="0" value="New"/>
+                <element label="In progress" sequence="1" value="In progress"/>
+                <element label="Closed won" sequence="2" value="Closed won"/>
+                <element label="Closed lost" sequence="3" value="Closed lost"/>
+            </choice>
+        </element>
+        <element label="Short description" max_length="100" name="u_short_description" type="string"/>
+        <element label="Worst" max_length="20" name="worst" type="currency"/>
+        <index name="index">
+            <element name="account_name"/>
+        </index>
+        <index name="index2">
+            <element name="assigned_user"/>
+        </index>
+    </element>
+</database>

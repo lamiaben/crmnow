@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_language_preference" table="x_129382_crmnow_leads" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_language_preference</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>English (US)</label>
+            <language>en</language>
+            <name>x_129382_crmnow_leads</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-13 13:33:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9b227686db97320023bfddd0cf961900</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-13 13:33:03</sys_updated_on>
+            <value>English (US)</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_language_preference</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Deutsch</label>
+            <language>en</language>
+            <name>x_129382_crmnow_leads</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-13 13:33:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d7227686db97320023bfddd0cf961901</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-13 13:33:03</sys_updated_on>
+            <value>Deutsch</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_language_preference</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Español</label>
+            <language>en</language>
+            <name>x_129382_crmnow_leads</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-13 13:33:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>53227686db97320023bfddd0cf961902</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-13 13:33:03</sys_updated_on>
+            <value>Español</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_language_preference</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Français</label>
+            <language>en</language>
+            <name>x_129382_crmnow_leads</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-13 13:33:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>db227686db97320023bfddd0cf961902</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-13 13:33:03</sys_updated_on>
+            <value>Français</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_language_preference</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>English (UK)</label>
+            <language>en</language>
+            <name>x_129382_crmnow_leads</name>
+            <sequence>4</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-13 13:33:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>57227686db97320023bfddd0cf961903</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-13 13:33:03</sys_updated_on>
+            <value>English (UK)</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_language_preference</element>
+            <name>x_129382_crmnow_leads</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-13 13:33:03</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>93227686db97320023bfddd0cf961901</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>u_language_preference</sys_name>
+            <sys_package display_value="CRMNow" source="x_129382_crmnow">adfaaf81db13320023bfddd0cf9619d7</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="CRMNow">adfaaf81db13320023bfddd0cf9619d7</sys_scope>
+            <sys_update_name>sys_choice_x_129382_crmnow_leads_u_language_preference</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-13 13:33:03</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

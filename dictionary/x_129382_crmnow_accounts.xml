@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Accounts" max_length="40" name="x_129382_crmnow_accounts" type="collection">
+        <element label="Assigned user" max_length="32" name="assigned_user" reference="sys_user" type="reference"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" default="Analyst" label="Account type" max_length="40" name="u_account_type" type="string">
+            <choice>
+                <element label="Analyst" sequence="0" value="Analyst"/>
+                <element label="Competitor" sequence="1" value="Competitor"/>
+                <element label="Customer" sequence="2" value="Customer"/>
+                <element label="Integrator" sequence="3" value="Integrator"/>
+                <element label="Investor" sequence="4" value="Investor"/>
+                <element label="Partner" sequence="5" value="Partner"/>
+                <element label="Press" sequence="6" value="Press"/>
+                <element label="Prospect" sequence="7" value="Prospect"/>
+                <element label="Reseller" sequence="8" value="Reseller"/>
+                <element label="Other" sequence="9" value="Other"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Annual revenue" max_length="100" name="u_annual_revenue" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Billing address street" max_length="100" name="u_billing_address_street" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Billing address city" max_length="100" name="u_billing_city" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Billing address country" max_length="255" name="u_billing_country" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Billing address postal code" max_length="20" name="u_billing_postal_code" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Billing address state" max_length="100" name="u_billing_state" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Description" max_length="500" name="u_desription" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Email" max_length="100" name="u_email" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Employees" max_length="10" name="u_employees" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Facebook account" max_length="100" name="u_facebook_account" type="string"/>
+        <element label="Fax" max_length="40" name="u_fax" type="phone_number_e164"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Industry" max_length="40" name="u_industry" type="string">
+            <choice>
+                <element label="Apparel" sequence="0" value="Apparel"/>
+                <element label="Construction" sequence="0" value="Construction"/>
+                <element label="Banking" sequence="1" value="Banking"/>
+                <element label="Biotechnology" sequence="2" value="Biotechnology"/>
+                <element label="Chemicals" sequence="3" value="Chemicals"/>
+                <element label="Communications" sequence="4" value="Communications"/>
+                <element label="Constructions" sequence="5" value="Constructions"/>
+                <element label="Consulting" sequence="6" value="Consulting"/>
+                <element label="Education" sequence="7" value="Education"/>
+                <element label="Electronics" sequence="8" value="Electronics"/>
+                <element label="Energy" sequence="9" value="Energy"/>
+                <element label="Engineering" sequence="10" value="Engineering"/>
+                <element label="Entertainment" sequence="11" value="Entertainment"/>
+                <element label="Environmental" sequence="12" value="Environmental"/>
+                <element label="Finace" sequence="13" value="Finace"/>
+                <element label="Government" sequence="14" value="Government"/>
+                <element label="Healthcare" sequence="15" value="Healthcare"/>
+                <element label="Hospitaly" sequence="16" value="Hospitaly"/>
+                <element label="Insurance" sequence="17" value="Insurance"/>
+                <element label="Machinery" sequence="18" value="Machinery"/>
+                <element label="Manufacturing" sequence="19" value="Manufacturing"/>
+                <element label="Media" sequence="20" value="Media"/>
+                <element label="Not For Profit" sequence="21" value="Not For Profit"/>
+                <element label="Recreation" sequence="22" value="Recreation"/>
+                <element label="Retail" sequence="23" value="Retail"/>
+                <element label="Shipping" sequence="24" value="Shipping"/>
+                <element label="Technology" sequence="25" value="Technology"/>
+                <element label="Telecommunications" sequence="26" value="Telecommunications"/>
+                <element label="Transportation" sequence="27" value="Transportation"/>
+                <element label="Utilities" sequence="28" value="Utilities"/>
+                <element label="Other" sequence="29" value="Other"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Ownership" max_length="100" name="u_ownership" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Phone alternate" max_length="100" name="u_phone_alternate" type="phone_number_e164"/>
+        <element attributes="edge_encryption_enabled=true" label="Phone office" max_length="100" name="u_phone_office" type="phone_number_e164"/>
+        <element attributes="edge_encryption_enabled=true" label="Rating" max_length="100" name="u_rating" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Shipping address city" max_length="100" name="u_shipping_address_city" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Shipping address country" max_length="100" name="u_shipping_country" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Shipping adress postalcode" max_length="20" name="u_shipping_postalcode" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Shipping address state" max_length="100" name="u_shipping_state" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Shipping adress street" max_length="100" name="u_shipping_street" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Short description" mandatory="true" max_length="40" name="u_short_description" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="SIC code" max_length="10" name="u_sic_code" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="googleplus" max_length="40" name="u_string_4" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Ticker symbol" max_length="10" name="u_ticker_symbol" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Twitter account" max_length="100" name="u_twitter_account" type="string"/>
+        <element label="Website" max_length="1024" name="u_website" type="url"/>
+        <index name="index">
+            <element name="assigned_user"/>
+        </index>
+    </element>
+</database>

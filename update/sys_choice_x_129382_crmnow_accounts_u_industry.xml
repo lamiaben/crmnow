@@ -1,0 +1,612 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_industry" table="x_129382_crmnow_accounts" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_industry</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Apparel</label>
+            <language>en</language>
+            <name>x_129382_crmnow_accounts</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-13 05:38:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>80954182dbd3320023bfddd0cf961970</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-13 05:38:31</sys_updated_on>
+            <value>Apparel</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_industry</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Construction</label>
+            <language>en</language>
+            <name>x_129382_crmnow_accounts</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-14 10:20:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>54cf43dedb53320023bfddd0cf96190b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-14 10:20:46</sys_updated_on>
+            <value>Construction</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_industry</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Banking</label>
+            <language>en</language>
+            <name>x_129382_crmnow_accounts</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-13 05:38:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>cc954182dbd3320023bfddd0cf961970</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-13 05:38:31</sys_updated_on>
+            <value>Banking</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_industry</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Biotechnology</label>
+            <language>en</language>
+            <name>x_129382_crmnow_accounts</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-13 05:38:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>48954182dbd3320023bfddd0cf961971</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-13 05:38:31</sys_updated_on>
+            <value>Biotechnology</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_industry</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Chemicals</label>
+            <language>en</language>
+            <name>x_129382_crmnow_accounts</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-13 05:38:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c0954182dbd3320023bfddd0cf961972</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-13 05:38:31</sys_updated_on>
+            <value>Chemicals</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_industry</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Communications</label>
+            <language>en</language>
+            <name>x_129382_crmnow_accounts</name>
+            <sequence>4</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-13 05:38:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4c954182dbd3320023bfddd0cf961972</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-13 05:38:31</sys_updated_on>
+            <value>Communications</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_industry</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Constructions</label>
+            <language>en</language>
+            <name>x_129382_crmnow_accounts</name>
+            <sequence>5</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-13 05:38:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c4954182dbd3320023bfddd0cf961973</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-13 05:38:31</sys_updated_on>
+            <value>Constructions</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_industry</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Consulting</label>
+            <language>en</language>
+            <name>x_129382_crmnow_accounts</name>
+            <sequence>6</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-13 05:38:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>40954182dbd3320023bfddd0cf961974</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-13 05:38:31</sys_updated_on>
+            <value>Consulting</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_industry</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Education</label>
+            <language>en</language>
+            <name>x_129382_crmnow_accounts</name>
+            <sequence>7</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-13 05:38:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c8954182dbd3320023bfddd0cf961974</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-13 05:38:31</sys_updated_on>
+            <value>Education</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_industry</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Electronics</label>
+            <language>en</language>
+            <name>x_129382_crmnow_accounts</name>
+            <sequence>8</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-13 05:38:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>44954182dbd3320023bfddd0cf961975</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-13 05:38:31</sys_updated_on>
+            <value>Electronics</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_industry</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Energy</label>
+            <language>en</language>
+            <name>x_129382_crmnow_accounts</name>
+            <sequence>9</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-13 05:38:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>cc954182dbd3320023bfddd0cf961975</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-13 05:38:31</sys_updated_on>
+            <value>Energy</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_industry</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Engineering</label>
+            <language>en</language>
+            <name>x_129382_crmnow_accounts</name>
+            <sequence>10</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-13 05:38:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>48954182dbd3320023bfddd0cf961976</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-13 05:38:31</sys_updated_on>
+            <value>Engineering</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_industry</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Entertainment</label>
+            <language>en</language>
+            <name>x_129382_crmnow_accounts</name>
+            <sequence>11</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-13 05:38:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c0954182dbd3320023bfddd0cf961977</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-13 05:38:31</sys_updated_on>
+            <value>Entertainment</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_industry</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Environmental</label>
+            <language>en</language>
+            <name>x_129382_crmnow_accounts</name>
+            <sequence>12</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-13 05:38:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4c954182dbd3320023bfddd0cf961977</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-13 05:38:31</sys_updated_on>
+            <value>Environmental</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_industry</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Finace</label>
+            <language>en</language>
+            <name>x_129382_crmnow_accounts</name>
+            <sequence>13</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-13 05:38:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c4954182dbd3320023bfddd0cf961978</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-13 05:38:31</sys_updated_on>
+            <value>Finace</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_industry</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Government</label>
+            <language>en</language>
+            <name>x_129382_crmnow_accounts</name>
+            <sequence>14</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-13 05:38:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>40954182dbd3320023bfddd0cf961979</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-13 05:38:31</sys_updated_on>
+            <value>Government</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_industry</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Healthcare</label>
+            <language>en</language>
+            <name>x_129382_crmnow_accounts</name>
+            <sequence>15</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-13 05:38:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c8954182dbd3320023bfddd0cf961979</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-13 05:38:31</sys_updated_on>
+            <value>Healthcare</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_industry</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Hospitaly</label>
+            <language>en</language>
+            <name>x_129382_crmnow_accounts</name>
+            <sequence>16</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-13 05:38:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>44954182dbd3320023bfddd0cf96197a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-13 05:38:31</sys_updated_on>
+            <value>Hospitaly</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_industry</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Insurance</label>
+            <language>en</language>
+            <name>x_129382_crmnow_accounts</name>
+            <sequence>17</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-13 05:38:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>cc954182dbd3320023bfddd0cf96197a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-13 05:38:31</sys_updated_on>
+            <value>Insurance</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_industry</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Machinery</label>
+            <language>en</language>
+            <name>x_129382_crmnow_accounts</name>
+            <sequence>18</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-13 05:38:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>48954182dbd3320023bfddd0cf96197b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-13 05:38:31</sys_updated_on>
+            <value>Machinery</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_industry</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Manufacturing</label>
+            <language>en</language>
+            <name>x_129382_crmnow_accounts</name>
+            <sequence>19</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-13 05:38:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c0954182dbd3320023bfddd0cf96197c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-13 05:38:31</sys_updated_on>
+            <value>Manufacturing</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_industry</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Media</label>
+            <language>en</language>
+            <name>x_129382_crmnow_accounts</name>
+            <sequence>20</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-13 05:38:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4c954182dbd3320023bfddd0cf96197c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-13 05:38:31</sys_updated_on>
+            <value>Media</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_industry</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Not For Profit</label>
+            <language>en</language>
+            <name>x_129382_crmnow_accounts</name>
+            <sequence>21</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-13 05:38:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8c954182dbd3320023bfddd0cf961989</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-13 05:38:31</sys_updated_on>
+            <value>Not For Profit</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_industry</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Recreation</label>
+            <language>en</language>
+            <name>x_129382_crmnow_accounts</name>
+            <sequence>22</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-13 05:38:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>08954182dbd3320023bfddd0cf96198a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-13 05:38:31</sys_updated_on>
+            <value>Recreation</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_industry</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Retail</label>
+            <language>en</language>
+            <name>x_129382_crmnow_accounts</name>
+            <sequence>23</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-13 05:38:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>80954182dbd3320023bfddd0cf96198b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-13 05:38:31</sys_updated_on>
+            <value>Retail</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_industry</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Shipping</label>
+            <language>en</language>
+            <name>x_129382_crmnow_accounts</name>
+            <sequence>24</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-13 05:38:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0c954182dbd3320023bfddd0cf96198b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-13 05:38:31</sys_updated_on>
+            <value>Shipping</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_industry</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Technology</label>
+            <language>en</language>
+            <name>x_129382_crmnow_accounts</name>
+            <sequence>25</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-13 05:38:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>84954182dbd3320023bfddd0cf96198c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-13 05:38:31</sys_updated_on>
+            <value>Technology</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_industry</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Telecommunications</label>
+            <language>en</language>
+            <name>x_129382_crmnow_accounts</name>
+            <sequence>26</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-13 05:38:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>00954182dbd3320023bfddd0cf96198d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-13 05:38:31</sys_updated_on>
+            <value>Telecommunications</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_industry</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Transportation</label>
+            <language>en</language>
+            <name>x_129382_crmnow_accounts</name>
+            <sequence>27</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-13 05:38:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>88954182dbd3320023bfddd0cf96198d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-13 05:38:31</sys_updated_on>
+            <value>Transportation</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_industry</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Utilities</label>
+            <language>en</language>
+            <name>x_129382_crmnow_accounts</name>
+            <sequence>28</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-13 05:38:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>04954182dbd3320023bfddd0cf96198e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-13 05:38:31</sys_updated_on>
+            <value>Utilities</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_industry</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Other</label>
+            <language>en</language>
+            <name>x_129382_crmnow_accounts</name>
+            <sequence>29</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-13 05:38:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8c954182dbd3320023bfddd0cf96198e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-13 05:38:31</sys_updated_on>
+            <value>Other</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_industry</element>
+            <name>x_129382_crmnow_accounts</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-13 05:38:31</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>88954182dbd3320023bfddd0cf961970</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_name>u_industry</sys_name>
+            <sys_package display_value="CRMNow" source="x_129382_crmnow">adfaaf81db13320023bfddd0cf9619d7</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="CRMNow">adfaaf81db13320023bfddd0cf9619d7</sys_scope>
+            <sys_update_name>sys_choice_x_129382_crmnow_accounts_u_industry</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-14 10:20:46</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

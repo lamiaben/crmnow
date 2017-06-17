@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Calls" max_length="40" name="x_129382_crmnow_calls" type="collection">
+        <element label="Description" max_length="1000" name="description" type="string"/>
+        <element choice="1" label="Direction" max_length="40" name="direction" type="choice">
+            <choice>
+                <element label="Inbound" sequence="0" value="Inbound"/>
+                <element label="Outbound" sequence="1" value="Outbound"/>
+            </choice>
+        </element>
+        <element choice="1" label="Email reminder time" max_length="40" name="email_reminder_time" type="choice">
+            <choice>
+                <element label="60" sequence="0" value="1 minute prior"/>
+                <element label="300" sequence="1" value="5 minutes prior"/>
+                <element label="600" sequence="2" value="10 minutes prior"/>
+                <element label="900" sequence="3" value="15 minutes prior"/>
+                <element label="1800" sequence="4" value="30 minutes prior"/>
+                <element label="3600" sequence="5" value="1 hour prior"/>
+                <element label="7200" sequence="6" value="2 hours prior"/>
+                <element label="10800" sequence="7" value="3 hours prior"/>
+                <element label="18000" sequence="8" value="5 hours prior"/>
+                <element label="86400" sequence="9" value="1 day prior"/>
+            </choice>
+        </element>
+        <element label="End date" max_length="40" name="end_date" type="glide_date_time"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Parent name" max_length="32" name="parent_name" reference="x_129382_crmnow_accounts" type="reference"/>
+        <element choice="1" label="Parent type" max_length="40" name="parent_type" type="choice">
+            <choice>
+                <element label="Account" sequence="0" value="Account"/>
+                <element label="Contact" sequence="1" value="Contact"/>
+                <element label="Task" sequence="2" value="Task"/>
+                <element label="Opportunity" sequence="3" value="Opportunity"/>
+                <element label="Quotes line item" sequence="4" value="Quotes line item"/>
+                <element label="Quote" sequence="5" value="Quote"/>
+                <element label="Lead" sequence="6" value="Lead"/>
+                <element label="Revenue line item" sequence="8" value="Revenue line item"/>
+            </choice>
+        </element>
+        <element choice="1" label="Popup reminder time" max_length="40" name="popup_reminder_time" type="choice">
+            <choice>
+                <element label="60" sequence="0" value="1 minute prior"/>
+                <element label="300" sequence="1" value="5 minutes prior"/>
+                <element label="600" sequence="2" value="10 minutes prior"/>
+                <element label="900" sequence="3" value="15 minutes prior"/>
+                <element label="1800" sequence="4" value="30 minutes prior"/>
+                <element label="3600" sequence="5" value="1 hour prior"/>
+                <element label="7200" sequence="6" value="2 hours prior"/>
+                <element label="10800" sequence="7" value="3 hours prior"/>
+                <element label="18000" sequence="8" value="5 hours prior"/>
+                <element label="86400" sequence="9" value="1 day prior"/>
+            </choice>
+        </element>
+        <element choice="1" label="Repeat type" max_length="40" name="repeat_type" type="choice">
+            <choice>
+                <element label="Daily" sequence="0" value="Daily"/>
+                <element label="Weekly" sequence="1" value="Weekly"/>
+                <element label="Monthly" sequence="2" value="Monthly"/>
+                <element label="Yearly" sequence="3" value="Yearly"/>
+            </choice>
+        </element>
+        <element label="Short description" mandatory="true" max_length="100" name="short_description" type="string"/>
+        <element label="Start date" max_length="40" name="start_date" type="glide_date_time"/>
+        <element choice="1" label="Status" max_length="40" name="status" type="choice">
+            <choice>
+                <element label="Planned" sequence="0" value="Planned"/>
+                <element label="Held" sequence="1" value="Held"/>
+                <element label="Not held" sequence="2" value="Not held"/>
+            </choice>
+        </element>
+        <index name="index">
+            <element name="parent_name"/>
+        </index>
+    </element>
+</database>
