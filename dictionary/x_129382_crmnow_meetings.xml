@@ -1,24 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
     <element label="Meetings" max_length="40" name="x_129382_crmnow_meetings" type="collection">
+        <element label="Assigned user" max_length="32" name="assigned_user" reference="sys_user" type="reference"/>
         <element label="Description" max_length="1000" name="description" type="string"/>
         <element label="End date" max_length="40" name="end_date" type="glide_date_time"/>
         <element label="location" max_length="100" name="location" type="string"/>
         <element label="Meeting password" max_length="50" name="meeting_password" type="string"/>
         <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
         <element choice="1" label="Parent type" max_length="40" name="parent_type" type="choice">
-            <choice/>
+            <choice>
+                <element label="Account" sequence="0" value="Account"/>
+                <element label="Accounts" sequence="0" value="Accounts"/>
+                <element label="Contact" sequence="1" value="Contact"/>
+                <element label="Task" sequence="2" value="Task"/>
+                <element label="Opportunity" sequence="3" value="Opportunity"/>
+                <element label="Quotes line item" sequence="4" value="Quotes line item"/>
+                <element label="Quote" sequence="5" value="Quote"/>
+                <element label="Lead" sequence="6" value="Lead"/>
+                <element label="Revenue line item" sequence="7" value="Revenue line item"/>
+            </choice>
         </element>
         <element choice="1" label="Popup reminder time" max_length="40" name="popup_reminder_time" type="choice">
-            <choice/>
+            <choice>
+                <element label="-1" sequence="0" value="-1"/>
+                <element label="Choice 1" sequence="0" value="Choice 1"/>
+                <element label="Choice 2" sequence="1" value="Choice 2"/>
+                <element label="Choice 3" sequence="2" value="Choice 3"/>
+            </choice>
         </element>
         <element label="Short description" mandatory="true" max_length="100" name="short_description" type="string"/>
         <element label="Start date" max_length="40" name="start_date" type="glide_date_time"/>
         <element choice="1" label="Status" max_length="40" name="status" type="choice">
-            <choice/>
+            <choice>
+                <element label="Not Held" sequence="0" value="Not Held"/>
+                <element label="Planned" sequence="0" value="Planned"/>
+                <element label="Scheduled" sequence="0" value="Scheduled"/>
+                <element label="Held" sequence="1" value="Held"/>
+                <element label="Canceled" sequence="2" value="Canceled"/>
+            </choice>
         </element>
         <element choice="1" label="Type" max_length="40" name="type" type="choice">
-            <choice/>
+            <choice>
+                <element label="onsite" sequence="0" value="onsite"/>
+                <element label="u_meetings_import" sequence="0" value="u_meetings_import"/>
+                <element label="online" sequence="1" value="online"/>
+                <element label="webex" sequence="2" value="webex"/>
+                <element label="gotomeeting" sequence="3" value="gotomeeting"/>
+            </choice>
         </element>
+        <index name="index">
+            <element name="assigned_user"/>
+        </index>
     </element>
 </database>

@@ -26,6 +26,7 @@
         <element choice="1" label="Language preference" max_length="40" name="u_language_preference" type="choice">
             <choice>
                 <element label="English (US)" sequence="0" value="English (US)"/>
+                <element label="en_us" sequence="0" value="en_us"/>
                 <element label="Deutsch" sequence="1" value="Deutsch"/>
                 <element label="Français" sequence="2" value="Français"/>
                 <element label="Español" sequence="3" value="Español"/>
@@ -35,6 +36,7 @@
         <element label="Last name" mandatory="true" max_length="100" name="u_last_name" type="string"/>
         <element choice="1" label="Lead source" max_length="40" name="u_lead_source" type="choice">
             <choice>
+                <element label="Campaign" sequence="0" value="Campaign"/>
                 <element label="Cold Call" sequence="0" value="Cold Call"/>
                 <element label="Existing Customer" sequence="1" value="Existing Customer"/>
                 <element label="Self Generated" sequence="2" value="Self Generated"/>

@@ -1,0 +1,1145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="u_contacts_import" version="2" view="">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_import_row</element>
+            <list_id display_value="u_contacts_import" element="NULL" name="u_contacts_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f50501a7db97320023bfddd0cf961972</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-17 21:27:04</sys_created_on>
+            <sys_id>710501a7db97320023bfddd0cf961973</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-17 21:27:04</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_import_set</element>
+            <list_id display_value="u_contacts_import" element="NULL" name="u_contacts_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f50501a7db97320023bfddd0cf961972</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-17 21:27:04</sys_created_on>
+            <sys_id>790501a7db97320023bfddd0cf961973</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-17 21:27:04</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_import_state</element>
+            <list_id display_value="u_contacts_import" element="NULL" name="u_contacts_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f50501a7db97320023bfddd0cf961972</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-17 21:27:04</sys_created_on>
+            <sys_id>f90501a7db97320023bfddd0cf961973</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-17 21:27:04</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_first_name</element>
+            <list_id display_value="u_contacts_import" element="NULL" name="u_contacts_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f50501a7db97320023bfddd0cf961972</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-17 21:27:04</sys_created_on>
+            <sys_id>7d0501a7db97320023bfddd0cf961973</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-17 21:27:04</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_last_name</element>
+            <list_id display_value="u_contacts_import" element="NULL" name="u_contacts_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f50501a7db97320023bfddd0cf961972</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-17 21:27:04</sys_created_on>
+            <sys_id>fd0501a7db97320023bfddd0cf961973</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-17 21:27:04</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_id</element>
+            <list_id display_value="u_contacts_import" element="NULL" name="u_contacts_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f50501a7db97320023bfddd0cf961972</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-17 21:27:04</sys_created_on>
+            <sys_id>710501a7db97320023bfddd0cf961974</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-17 21:27:04</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_salutation</element>
+            <list_id display_value="u_contacts_import" element="NULL" name="u_contacts_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f50501a7db97320023bfddd0cf961972</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>6</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-17 21:27:04</sys_created_on>
+            <sys_id>f10501a7db97320023bfddd0cf961974</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-17 21:27:04</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_title</element>
+            <list_id display_value="u_contacts_import" element="NULL" name="u_contacts_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f50501a7db97320023bfddd0cf961972</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>7</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-17 21:27:04</sys_created_on>
+            <sys_id>750501a7db97320023bfddd0cf961974</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-17 21:27:04</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_department</element>
+            <list_id display_value="u_contacts_import" element="NULL" name="u_contacts_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f50501a7db97320023bfddd0cf961972</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>8</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-17 21:27:04</sys_created_on>
+            <sys_id>f50501a7db97320023bfddd0cf961974</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-17 21:27:04</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_account_name</element>
+            <list_id display_value="u_contacts_import" element="NULL" name="u_contacts_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f50501a7db97320023bfddd0cf961972</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>9</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-17 21:27:04</sys_created_on>
+            <sys_id>790501a7db97320023bfddd0cf961974</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-17 21:27:04</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_mobile_phone</element>
+            <list_id display_value="u_contacts_import" element="NULL" name="u_contacts_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f50501a7db97320023bfddd0cf961972</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>10</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-17 21:27:04</sys_created_on>
+            <sys_id>f90501a7db97320023bfddd0cf961974</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-17 21:27:04</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_office_phone</element>
+            <list_id display_value="u_contacts_import" element="NULL" name="u_contacts_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f50501a7db97320023bfddd0cf961972</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>11</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-17 21:27:04</sys_created_on>
+            <sys_id>7d0501a7db97320023bfddd0cf961974</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-17 21:27:04</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_home_phone</element>
+            <list_id display_value="u_contacts_import" element="NULL" name="u_contacts_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f50501a7db97320023bfddd0cf961972</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>12</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-17 21:27:04</sys_created_on>
+            <sys_id>fd0501a7db97320023bfddd0cf961974</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-17 21:27:04</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_other_phone</element>
+            <list_id display_value="u_contacts_import" element="NULL" name="u_contacts_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f50501a7db97320023bfddd0cf961972</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>13</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-17 21:27:04</sys_created_on>
+            <sys_id>710501a7db97320023bfddd0cf961975</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-17 21:27:04</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_fax</element>
+            <list_id display_value="u_contacts_import" element="NULL" name="u_contacts_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f50501a7db97320023bfddd0cf961972</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>14</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-17 21:27:04</sys_created_on>
+            <sys_id>f10501a7db97320023bfddd0cf961975</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-17 21:27:04</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_primary_address_street</element>
+            <list_id display_value="u_contacts_import" element="NULL" name="u_contacts_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f50501a7db97320023bfddd0cf961972</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>15</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-17 21:27:04</sys_created_on>
+            <sys_id>750501a7db97320023bfddd0cf961975</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-17 21:27:04</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_primary_address_city</element>
+            <list_id display_value="u_contacts_import" element="NULL" name="u_contacts_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f50501a7db97320023bfddd0cf961972</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>16</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-17 21:27:04</sys_created_on>
+            <sys_id>f50501a7db97320023bfddd0cf961975</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-17 21:27:04</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_primary_address_state</element>
+            <list_id display_value="u_contacts_import" element="NULL" name="u_contacts_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f50501a7db97320023bfddd0cf961972</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>17</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-17 21:27:04</sys_created_on>
+            <sys_id>790501a7db97320023bfddd0cf961975</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-17 21:27:04</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_primary_address_postal_code</element>
+            <list_id display_value="u_contacts_import" element="NULL" name="u_contacts_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f50501a7db97320023bfddd0cf961972</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>18</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-17 21:27:04</sys_created_on>
+            <sys_id>f90501a7db97320023bfddd0cf961975</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-17 21:27:04</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_primary_address_country</element>
+            <list_id display_value="u_contacts_import" element="NULL" name="u_contacts_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f50501a7db97320023bfddd0cf961972</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>19</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-17 21:27:04</sys_created_on>
+            <sys_id>7d0501a7db97320023bfddd0cf961975</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-17 21:27:04</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_alternate_address_street</element>
+            <list_id display_value="u_contacts_import" element="NULL" name="u_contacts_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f50501a7db97320023bfddd0cf961972</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>20</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-17 21:27:04</sys_created_on>
+            <sys_id>fd0501a7db97320023bfddd0cf961975</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-17 21:27:04</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_alternate_address_city</element>
+            <list_id display_value="u_contacts_import" element="NULL" name="u_contacts_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f50501a7db97320023bfddd0cf961972</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>21</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-17 21:27:04</sys_created_on>
+            <sys_id>710501a7db97320023bfddd0cf961976</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-17 21:27:04</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_alternate_address_state</element>
+            <list_id display_value="u_contacts_import" element="NULL" name="u_contacts_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f50501a7db97320023bfddd0cf961972</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>22</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-17 21:27:04</sys_created_on>
+            <sys_id>f10501a7db97320023bfddd0cf961976</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-17 21:27:04</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_alternate_ad_ss_postal_code</element>
+            <list_id display_value="u_contacts_import" element="NULL" name="u_contacts_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f50501a7db97320023bfddd0cf961972</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>23</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-17 21:27:04</sys_created_on>
+            <sys_id>750501a7db97320023bfddd0cf961976</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-17 21:27:04</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_alternate_address_country</element>
+            <list_id display_value="u_contacts_import" element="NULL" name="u_contacts_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f50501a7db97320023bfddd0cf961972</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>24</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-17 21:27:04</sys_created_on>
+            <sys_id>f50501a7db97320023bfddd0cf961976</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-17 21:27:04</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_description</element>
+            <list_id display_value="u_contacts_import" element="NULL" name="u_contacts_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f50501a7db97320023bfddd0cf961972</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>25</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-17 21:27:04</sys_created_on>
+            <sys_id>790501a7db97320023bfddd0cf961976</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-17 21:27:04</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_birthdate</element>
+            <list_id display_value="u_contacts_import" element="NULL" name="u_contacts_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f50501a7db97320023bfddd0cf961972</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>26</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-17 21:27:04</sys_created_on>
+            <sys_id>f90501a7db97320023bfddd0cf961976</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-17 21:27:04</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_lead_source</element>
+            <list_id display_value="u_contacts_import" element="NULL" name="u_contacts_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f50501a7db97320023bfddd0cf961972</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>27</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-17 21:27:04</sys_created_on>
+            <sys_id>7d0501a7db97320023bfddd0cf961976</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-17 21:27:04</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_campaign_id</element>
+            <list_id display_value="u_contacts_import" element="NULL" name="u_contacts_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f50501a7db97320023bfddd0cf961972</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>28</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-17 21:27:04</sys_created_on>
+            <sys_id>fd0501a7db97320023bfddd0cf961976</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-17 21:27:04</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_do_not_call</element>
+            <list_id display_value="u_contacts_import" element="NULL" name="u_contacts_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f50501a7db97320023bfddd0cf961972</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>29</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-17 21:27:04</sys_created_on>
+            <sys_id>710501a7db97320023bfddd0cf961977</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-17 21:27:04</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_portal_name</element>
+            <list_id display_value="u_contacts_import" element="NULL" name="u_contacts_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f50501a7db97320023bfddd0cf961972</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>30</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-17 21:27:04</sys_created_on>
+            <sys_id>f10501a7db97320023bfddd0cf961977</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-17 21:27:04</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_portal_active</element>
+            <list_id display_value="u_contacts_import" element="NULL" name="u_contacts_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f50501a7db97320023bfddd0cf961972</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>31</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-17 21:27:04</sys_created_on>
+            <sys_id>750501a7db97320023bfddd0cf961977</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-17 21:27:04</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_password</element>
+            <list_id display_value="u_contacts_import" element="NULL" name="u_contacts_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f50501a7db97320023bfddd0cf961972</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>32</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-17 21:27:04</sys_created_on>
+            <sys_id>f50501a7db97320023bfddd0cf961977</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-17 21:27:04</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_portal_application</element>
+            <list_id display_value="u_contacts_import" element="NULL" name="u_contacts_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f50501a7db97320023bfddd0cf961972</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>33</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-17 21:27:04</sys_created_on>
+            <sys_id>790501a7db97320023bfddd0cf961977</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-17 21:27:04</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_reports_to_id</element>
+            <list_id display_value="u_contacts_import" element="NULL" name="u_contacts_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f50501a7db97320023bfddd0cf961972</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>34</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-17 21:27:04</sys_created_on>
+            <sys_id>f90501a7db97320023bfddd0cf961977</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-17 21:27:04</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_assistant</element>
+            <list_id display_value="u_contacts_import" element="NULL" name="u_contacts_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f50501a7db97320023bfddd0cf961972</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>35</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-17 21:27:04</sys_created_on>
+            <sys_id>7d0501a7db97320023bfddd0cf961977</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-17 21:27:04</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_assistant_phone</element>
+            <list_id display_value="u_contacts_import" element="NULL" name="u_contacts_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f50501a7db97320023bfddd0cf961972</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>36</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-17 21:27:04</sys_created_on>
+            <sys_id>fd0501a7db97320023bfddd0cf961977</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-17 21:27:04</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_avatar</element>
+            <list_id display_value="u_contacts_import" element="NULL" name="u_contacts_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f50501a7db97320023bfddd0cf961972</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>37</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-17 21:27:04</sys_created_on>
+            <sys_id>710501a7db97320023bfddd0cf961978</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-17 21:27:04</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_assigned_user_name</element>
+            <list_id display_value="u_contacts_import" element="NULL" name="u_contacts_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f50501a7db97320023bfddd0cf961972</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>38</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-17 21:27:04</sys_created_on>
+            <sys_id>f10501a7db97320023bfddd0cf961978</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-17 21:27:04</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_assigned_user_id</element>
+            <list_id display_value="u_contacts_import" element="NULL" name="u_contacts_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f50501a7db97320023bfddd0cf961972</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>39</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-17 21:27:04</sys_created_on>
+            <sys_id>750501a7db97320023bfddd0cf961978</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-17 21:27:04</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_teams</element>
+            <list_id display_value="u_contacts_import" element="NULL" name="u_contacts_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f50501a7db97320023bfddd0cf961972</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>40</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-17 21:27:04</sys_created_on>
+            <sys_id>f50501a7db97320023bfddd0cf961978</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-17 21:27:04</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_team_id</element>
+            <list_id display_value="u_contacts_import" element="NULL" name="u_contacts_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f50501a7db97320023bfddd0cf961972</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>41</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-17 21:27:04</sys_created_on>
+            <sys_id>790501a7db97320023bfddd0cf961978</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-17 21:27:04</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_team_set_id</element>
+            <list_id display_value="u_contacts_import" element="NULL" name="u_contacts_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f50501a7db97320023bfddd0cf961972</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>42</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-17 21:27:04</sys_created_on>
+            <sys_id>f90501a7db97320023bfddd0cf961978</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-17 21:27:04</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_date_created</element>
+            <list_id display_value="u_contacts_import" element="NULL" name="u_contacts_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f50501a7db97320023bfddd0cf961972</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>43</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-17 21:27:04</sys_created_on>
+            <sys_id>7d0501a7db97320023bfddd0cf961978</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-17 21:27:04</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_date_modified</element>
+            <list_id display_value="u_contacts_import" element="NULL" name="u_contacts_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f50501a7db97320023bfddd0cf961972</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>44</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-17 21:27:04</sys_created_on>
+            <sys_id>fd0501a7db97320023bfddd0cf961978</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-17 21:27:04</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_modified_by_name</element>
+            <list_id display_value="u_contacts_import" element="NULL" name="u_contacts_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f50501a7db97320023bfddd0cf961972</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>45</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-17 21:27:04</sys_created_on>
+            <sys_id>710501a7db97320023bfddd0cf961979</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-17 21:27:04</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_modified_by_id</element>
+            <list_id display_value="u_contacts_import" element="NULL" name="u_contacts_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f50501a7db97320023bfddd0cf961972</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>46</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-17 21:27:04</sys_created_on>
+            <sys_id>f10501a7db97320023bfddd0cf961979</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-17 21:27:04</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_created_by</element>
+            <list_id display_value="u_contacts_import" element="NULL" name="u_contacts_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f50501a7db97320023bfddd0cf961972</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>47</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-17 21:27:04</sys_created_on>
+            <sys_id>750501a7db97320023bfddd0cf961979</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-17 21:27:04</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_created_by_id</element>
+            <list_id display_value="u_contacts_import" element="NULL" name="u_contacts_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f50501a7db97320023bfddd0cf961972</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>48</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-17 21:27:04</sys_created_on>
+            <sys_id>f50501a7db97320023bfddd0cf961979</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-17 21:27:04</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_deleted</element>
+            <list_id display_value="u_contacts_import" element="NULL" name="u_contacts_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f50501a7db97320023bfddd0cf961972</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>49</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-17 21:27:04</sys_created_on>
+            <sys_id>790501a7db97320023bfddd0cf961979</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-17 21:27:04</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_latitude</element>
+            <list_id display_value="u_contacts_import" element="NULL" name="u_contacts_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f50501a7db97320023bfddd0cf961972</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>50</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-17 21:27:04</sys_created_on>
+            <sys_id>f90501a7db97320023bfddd0cf961979</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-17 21:27:04</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_longitude</element>
+            <list_id display_value="u_contacts_import" element="NULL" name="u_contacts_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f50501a7db97320023bfddd0cf961972</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>51</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-17 21:27:04</sys_created_on>
+            <sys_id>7d0501a7db97320023bfddd0cf961979</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-17 21:27:04</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_name</element>
+            <list_id display_value="u_contacts_import" element="NULL" name="u_contacts_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f50501a7db97320023bfddd0cf961972</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>52</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-17 21:27:04</sys_created_on>
+            <sys_id>fd0501a7db97320023bfddd0cf961979</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-17 21:27:04</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_full_name</element>
+            <list_id display_value="u_contacts_import" element="NULL" name="u_contacts_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f50501a7db97320023bfddd0cf961972</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>53</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-17 21:27:04</sys_created_on>
+            <sys_id>710501a7db97320023bfddd0cf96197a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-17 21:27:04</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_facebook_account</element>
+            <list_id display_value="u_contacts_import" element="NULL" name="u_contacts_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f50501a7db97320023bfddd0cf961972</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>54</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-17 21:27:04</sys_created_on>
+            <sys_id>f10501a7db97320023bfddd0cf96197a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-17 21:27:04</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_twitter_account</element>
+            <list_id display_value="u_contacts_import" element="NULL" name="u_contacts_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f50501a7db97320023bfddd0cf961972</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>55</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-17 21:27:04</sys_created_on>
+            <sys_id>750501a7db97320023bfddd0cf96197a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-17 21:27:04</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_google_plus_id</element>
+            <list_id display_value="u_contacts_import" element="NULL" name="u_contacts_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f50501a7db97320023bfddd0cf961972</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>56</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-17 21:27:04</sys_created_on>
+            <sys_id>f50501a7db97320023bfddd0cf96197a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-17 21:27:04</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_account_id</element>
+            <list_id display_value="u_contacts_import" element="NULL" name="u_contacts_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f50501a7db97320023bfddd0cf961972</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>57</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-17 21:27:04</sys_created_on>
+            <sys_id>790501a7db97320023bfddd0cf96197a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-17 21:27:04</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_d_b_principal_id</element>
+            <list_id display_value="u_contacts_import" element="NULL" name="u_contacts_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f50501a7db97320023bfddd0cf961972</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>58</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-17 21:27:04</sys_created_on>
+            <sys_id>f90501a7db97320023bfddd0cf96197a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-17 21:27:04</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_language_preference</element>
+            <list_id display_value="u_contacts_import" element="NULL" name="u_contacts_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f50501a7db97320023bfddd0cf961972</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>59</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-17 21:27:04</sys_created_on>
+            <sys_id>7d0501a7db97320023bfddd0cf96197a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-17 21:27:04</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_sync_to_marketo_reg_</element>
+            <list_id display_value="u_contacts_import" element="NULL" name="u_contacts_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f50501a7db97320023bfddd0cf961972</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>60</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-17 21:27:04</sys_created_on>
+            <sys_id>fd0501a7db97320023bfddd0cf96197a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-17 21:27:04</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_marketo_lead_id</element>
+            <list_id display_value="u_contacts_import" element="NULL" name="u_contacts_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f50501a7db97320023bfddd0cf961972</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>61</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-17 21:27:04</sys_created_on>
+            <sys_id>710501a7db97320023bfddd0cf96197b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-17 21:27:04</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_lead_score</element>
+            <list_id display_value="u_contacts_import" element="NULL" name="u_contacts_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f50501a7db97320023bfddd0cf961972</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>62</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-17 21:27:04</sys_created_on>
+            <sys_id>f10501a7db97320023bfddd0cf96197b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-17 21:27:04</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_tags</element>
+            <list_id display_value="u_contacts_import" element="NULL" name="u_contacts_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f50501a7db97320023bfddd0cf961972</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>63</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-17 21:27:04</sys_created_on>
+            <sys_id>750501a7db97320023bfddd0cf96197b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-17 21:27:04</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_selected_team_set_id</element>
+            <list_id display_value="u_contacts_import" element="NULL" name="u_contacts_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f50501a7db97320023bfddd0cf961972</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>64</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-17 21:27:04</sys_created_on>
+            <sys_id>f50501a7db97320023bfddd0cf96197b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-17 21:27:04</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_selected_teams</element>
+            <list_id display_value="u_contacts_import" element="NULL" name="u_contacts_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f50501a7db97320023bfddd0cf961972</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>65</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-17 21:27:04</sys_created_on>
+            <sys_id>790501a7db97320023bfddd0cf96197b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-17 21:27:04</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_customer_journey_template</element>
+            <list_id display_value="u_contacts_import" element="NULL" name="u_contacts_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f50501a7db97320023bfddd0cf961972</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>66</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-17 21:27:04</sys_created_on>
+            <sys_id>f90501a7db97320023bfddd0cf96197b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-17 21:27:04</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_email</element>
+            <list_id display_value="u_contacts_import" element="NULL" name="u_contacts_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f50501a7db97320023bfddd0cf961972</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>67</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-17 21:27:04</sys_created_on>
+            <sys_id>7d0501a7db97320023bfddd0cf96197b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-17 21:27:04</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_invalid_email</element>
+            <list_id display_value="u_contacts_import" element="NULL" name="u_contacts_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f50501a7db97320023bfddd0cf961972</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>68</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-17 21:27:04</sys_created_on>
+            <sys_id>fd0501a7db97320023bfddd0cf96197b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-17 21:27:04</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_email_opt_out</element>
+            <list_id display_value="u_contacts_import" element="NULL" name="u_contacts_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f50501a7db97320023bfddd0cf961972</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>69</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-17 21:27:04</sys_created_on>
+            <sys_id>710501a7db97320023bfddd0cf96197c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-17 21:27:04</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_non_primary_emails</element>
+            <list_id display_value="u_contacts_import" element="NULL" name="u_contacts_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f50501a7db97320023bfddd0cf961972</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>70</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-17 21:27:04</sys_created_on>
+            <sys_id>f10501a7db97320023bfddd0cf96197c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-17 21:27:04</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_target_table</element>
+            <list_id display_value="u_contacts_import" element="NULL" name="u_contacts_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f50501a7db97320023bfddd0cf961972</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>71</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-17 21:27:04</sys_created_on>
+            <sys_id>750501a7db97320023bfddd0cf96197c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-17 21:27:04</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_target_sys_id</element>
+            <list_id display_value="u_contacts_import" element="NULL" name="u_contacts_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f50501a7db97320023bfddd0cf961972</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>72</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-17 21:27:04</sys_created_on>
+            <sys_id>f50501a7db97320023bfddd0cf96197c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-17 21:27:04</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_row_error</element>
+            <list_id display_value="u_contacts_import" element="NULL" name="u_contacts_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">f50501a7db97320023bfddd0cf961972</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>73</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-17 21:27:04</sys_created_on>
+            <sys_id>790501a7db97320023bfddd0cf96197c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-17 21:27:04</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>u_contacts_import</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-17 21:27:04</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f50501a7db97320023bfddd0cf961972</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_contacts_import</sys_name>
+            <sys_package display_value="CRMNow" source="x_129382_crmnow">adfaaf81db13320023bfddd0cf9619d7</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="CRMNow">adfaaf81db13320023bfddd0cf9619d7</sys_scope>
+            <sys_update_name>sys_ui_list_u_contacts_import_null</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-17 21:27:04</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

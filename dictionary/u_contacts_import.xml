@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="sys_import_set_row" label="contacts_import" max_length="40" name="u_contacts_import" type="collection">
+        <element attributes="import_attribute_name=Account ID,edge_encryption_enabled=true" label="Account ID" max_length="40" name="u_account_id" type="string"/>
+        <element attributes="import_attribute_name=Account Name,edge_encryption_enabled=true" label="Account Name" max_length="40" name="u_account_name" type="string"/>
+        <element attributes="import_attribute_name=Alternate Address City,edge_encryption_enabled=true" label="Alternate Address City" max_length="40" name="u_alternate_address_city" type="string"/>
+        <element attributes="import_attribute_name=Alternate Address Country,edge_encryption_enabled=true" label="Alternate Address Country" max_length="40" name="u_alternate_address_country" type="string"/>
+        <element attributes="import_attribute_name=Alternate Address State,edge_encryption_enabled=true" label="Alternate Address State" max_length="40" name="u_alternate_address_state" type="string"/>
+        <element attributes="import_attribute_name=Alternate Address Street,edge_encryption_enabled=true" label="Alternate Address Street" max_length="40" name="u_alternate_address_street" type="string"/>
+        <element attributes="import_attribute_name=Alternate Address Postal Code,edge_encryption_enabled=true" label="Alternate Address Postal Code" max_length="40" name="u_alternate_ad_ss_postal_code" type="string"/>
+        <element attributes="import_attribute_name=Assigned User ID,edge_encryption_enabled=true" label="Assigned User ID" max_length="40" name="u_assigned_user_id" type="string"/>
+        <element attributes="import_attribute_name=Assigned User Name,edge_encryption_enabled=true" label="Assigned User Name" max_length="40" name="u_assigned_user_name" type="string"/>
+        <element attributes="import_attribute_name=Assistant,edge_encryption_enabled=true" label="Assistant" max_length="40" name="u_assistant" type="string"/>
+        <element attributes="import_attribute_name=Assistant Phone,edge_encryption_enabled=true" label="Assistant Phone" max_length="40" name="u_assistant_phone" type="string"/>
+        <element attributes="import_attribute_name=Avatar,edge_encryption_enabled=true" label="Avatar" max_length="40" name="u_avatar" type="string"/>
+        <element attributes="import_attribute_name=Birthdate,edge_encryption_enabled=true" label="Birthdate" max_length="40" name="u_birthdate" type="string"/>
+        <element attributes="import_attribute_name=Campaign ID,edge_encryption_enabled=true" label="Campaign ID" max_length="40" name="u_campaign_id" type="string"/>
+        <element attributes="import_attribute_name=Created By,edge_encryption_enabled=true" label="Created By" max_length="40" name="u_created_by" type="string"/>
+        <element attributes="import_attribute_name=Created By ID,edge_encryption_enabled=true" label="Created By ID" max_length="40" name="u_created_by_id" type="string"/>
+        <element attributes="import_attribute_name=Customer Journey Template,edge_encryption_enabled=true" label="Customer Journey Template" max_length="40" name="u_customer_journey_template" type="string"/>
+        <element attributes="import_attribute_name=Date Created,edge_encryption_enabled=true" label="Date Created" max_length="40" name="u_date_created" type="string"/>
+        <element attributes="import_attribute_name=Date Modified,edge_encryption_enabled=true" label="Date Modified" max_length="40" name="u_date_modified" type="string"/>
+        <element attributes="import_attribute_name=Deleted,edge_encryption_enabled=true" label="Deleted" max_length="40" name="u_deleted" type="string"/>
+        <element attributes="import_attribute_name=Department,edge_encryption_enabled=true" label="Department" max_length="40" name="u_department" type="string"/>
+        <element attributes="import_attribute_name=Description,edge_encryption_enabled=true" label="Description" max_length="100" name="u_description" type="string"/>
+        <element attributes="import_attribute_name=Do Not Call,edge_encryption_enabled=true" label="Do Not Call" max_length="40" name="u_do_not_call" type="string"/>
+        <element attributes="import_attribute_name=D&amp;B Principal Id,edge_encryption_enabled=true" label="D&amp;B Principal Id" max_length="40" name="u_d_b_principal_id" type="string"/>
+        <element attributes="import_attribute_name=Email,edge_encryption_enabled=true" label="Email" max_length="40" name="u_email" type="string"/>
+        <element attributes="import_attribute_name=Email Opt Out,edge_encryption_enabled=true" label="Email Opt Out" max_length="40" name="u_email_opt_out" type="string"/>
+        <element attributes="import_attribute_name=Facebook Account,edge_encryption_enabled=true" label="Facebook Account" max_length="40" name="u_facebook_account" type="string"/>
+        <element attributes="import_attribute_name=Fax,edge_encryption_enabled=true" label="Fax" max_length="40" name="u_fax" type="string"/>
+        <element attributes="import_attribute_name=First Name,edge_encryption_enabled=true" label="First Name" max_length="40" name="u_first_name" type="string"/>
+        <element attributes="import_attribute_name=Full Name,edge_encryption_enabled=true" label="Full Name" max_length="40" name="u_full_name" type="string"/>
+        <element attributes="import_attribute_name=Google Plus ID,edge_encryption_enabled=true" label="Google Plus ID" max_length="40" name="u_google_plus_id" type="string"/>
+        <element attributes="import_attribute_name=Home Phone,edge_encryption_enabled=true" label="Home Phone" max_length="40" name="u_home_phone" type="string"/>
+        <element attributes="import_attribute_name=ID,edge_encryption_enabled=true" label="ID" max_length="40" name="u_id" type="string"/>
+        <element attributes="import_attribute_name=Invalid Email,edge_encryption_enabled=true" label="Invalid Email" max_length="40" name="u_invalid_email" type="string"/>
+        <element attributes="import_attribute_name=Language Preference,edge_encryption_enabled=true" label="Language Preference" max_length="40" name="u_language_preference" type="string"/>
+        <element attributes="import_attribute_name=Last Name,edge_encryption_enabled=true" label="Last Name" max_length="40" name="u_last_name" type="string"/>
+        <element attributes="import_attribute_name=latitude,edge_encryption_enabled=true" label="latitude" max_length="40" name="u_latitude" type="string"/>
+        <element attributes="import_attribute_name=Lead Score,edge_encryption_enabled=true" label="Lead Score" max_length="40" name="u_lead_score" type="string"/>
+        <element attributes="import_attribute_name=Lead Source,edge_encryption_enabled=true" label="Lead Source" max_length="40" name="u_lead_source" type="string"/>
+        <element attributes="import_attribute_name=longitude,edge_encryption_enabled=true" label="longitude" max_length="40" name="u_longitude" type="string"/>
+        <element attributes="import_attribute_name=Marketo Lead ID,edge_encryption_enabled=true" label="Marketo Lead ID" max_length="40" name="u_marketo_lead_id" type="string"/>
+        <element attributes="import_attribute_name=Mobile Phone,edge_encryption_enabled=true" label="Mobile Phone" max_length="40" name="u_mobile_phone" type="string"/>
+        <element attributes="import_attribute_name=Modified By ID,edge_encryption_enabled=true" label="Modified By ID" max_length="40" name="u_modified_by_id" type="string"/>
+        <element attributes="import_attribute_name=Modified By Name,edge_encryption_enabled=true" label="Modified By Name" max_length="40" name="u_modified_by_name" type="string"/>
+        <element attributes="import_attribute_name=Name,edge_encryption_enabled=true" label="Name" max_length="40" name="u_name" type="string"/>
+        <element attributes="import_attribute_name=Non-primary emails,edge_encryption_enabled=true" label="Non-primary emails" max_length="40" name="u_non_primary_emails" type="string"/>
+        <element attributes="import_attribute_name=Office Phone,edge_encryption_enabled=true" label="Office Phone" max_length="40" name="u_office_phone" type="string"/>
+        <element attributes="import_attribute_name=Other Phone,edge_encryption_enabled=true" label="Other Phone" max_length="40" name="u_other_phone" type="string"/>
+        <element attributes="import_attribute_name=Password,edge_encryption_enabled=true" label="Password" max_length="60" name="u_password" type="string"/>
+        <element attributes="import_attribute_name=Portal Active,edge_encryption_enabled=true" label="Portal Active" max_length="40" name="u_portal_active" type="string"/>
+        <element attributes="import_attribute_name=Portal Application,edge_encryption_enabled=true" label="Portal Application" max_length="40" name="u_portal_application" type="string"/>
+        <element attributes="import_attribute_name=Portal Name,edge_encryption_enabled=true" label="Portal Name" max_length="40" name="u_portal_name" type="string"/>
+        <element attributes="import_attribute_name=Primary Address City,edge_encryption_enabled=true" label="Primary Address City" max_length="40" name="u_primary_address_city" type="string"/>
+        <element attributes="import_attribute_name=Primary Address Country,edge_encryption_enabled=true" label="Primary Address Country" max_length="40" name="u_primary_address_country" type="string"/>
+        <element attributes="import_attribute_name=Primary Address Postal Code,edge_encryption_enabled=true" label="Primary Address Postal Code" max_length="40" name="u_primary_address_postal_code" type="string"/>
+        <element attributes="import_attribute_name=Primary Address State,edge_encryption_enabled=true" label="Primary Address State" max_length="40" name="u_primary_address_state" type="string"/>
+        <element attributes="import_attribute_name=Primary Address Street,edge_encryption_enabled=true" label="Primary Address Street" max_length="40" name="u_primary_address_street" type="string"/>
+        <element attributes="import_attribute_name=Reports To ID,edge_encryption_enabled=true" label="Reports To ID" max_length="40" name="u_reports_to_id" type="string"/>
+        <element attributes="import_attribute_name=Salutation,edge_encryption_enabled=true" label="Salutation" max_length="40" name="u_salutation" type="string"/>
+        <element attributes="import_attribute_name=Selected Teams,edge_encryption_enabled=true" label="Selected Teams" max_length="40" name="u_selected_teams" type="string"/>
+        <element attributes="import_attribute_name=Selected Team Set ID,edge_encryption_enabled=true" label="Selected Team Set ID" max_length="40" name="u_selected_team_set_id" type="string"/>
+        <element attributes="import_attribute_name=Sync to Marketo&amp;reg;,edge_encryption_enabled=true" label="Sync to Marketo&amp;reg;" max_length="40" name="u_sync_to_marketo_reg_" type="string"/>
+        <element attributes="import_attribute_name=Tags,edge_encryption_enabled=true" label="Tags" max_length="40" name="u_tags" type="string"/>
+        <element attributes="import_attribute_name=Teams,edge_encryption_enabled=true" label="Teams" max_length="40" name="u_teams" type="string"/>
+        <element attributes="import_attribute_name=Team ID,edge_encryption_enabled=true" label="Team ID" max_length="40" name="u_team_id" type="string"/>
+        <element attributes="import_attribute_name=Team Set ID,edge_encryption_enabled=true" label="Team Set ID" max_length="40" name="u_team_set_id" type="string"/>
+        <element attributes="import_attribute_name=Title,edge_encryption_enabled=true" label="Title" max_length="40" name="u_title" type="string"/>
+        <element attributes="import_attribute_name=Twitter Account,edge_encryption_enabled=true" label="Twitter Account" max_length="40" name="u_twitter_account" type="string"/>
+    </element>
+</database>

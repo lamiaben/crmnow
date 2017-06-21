@@ -1,0 +1,935 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="u_meetings_import" version="2" view="">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_import_row</element>
+            <list_id display_value="u_meetings_import" element="NULL" name="u_meetings_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9fb02d27dbd7320023bfddd0cf9619c3</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-17 23:28:09</sys_created_on>
+            <sys_id>93b02d27dbd7320023bfddd0cf9619c4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-17 23:28:09</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_import_set</element>
+            <list_id display_value="u_meetings_import" element="NULL" name="u_meetings_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9fb02d27dbd7320023bfddd0cf9619c3</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-17 23:28:09</sys_created_on>
+            <sys_id>17b02d27dbd7320023bfddd0cf9619c4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-17 23:28:09</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_import_state</element>
+            <list_id display_value="u_meetings_import" element="NULL" name="u_meetings_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9fb02d27dbd7320023bfddd0cf9619c3</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-17 23:28:09</sys_created_on>
+            <sys_id>97b02d27dbd7320023bfddd0cf9619c4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-17 23:28:09</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_subject</element>
+            <list_id display_value="u_meetings_import" element="NULL" name="u_meetings_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9fb02d27dbd7320023bfddd0cf9619c3</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-17 23:28:09</sys_created_on>
+            <sys_id>1bb02d27dbd7320023bfddd0cf9619c4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-17 23:28:09</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_id</element>
+            <list_id display_value="u_meetings_import" element="NULL" name="u_meetings_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9fb02d27dbd7320023bfddd0cf9619c3</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-17 23:28:09</sys_created_on>
+            <sys_id>9bb02d27dbd7320023bfddd0cf9619c4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-17 23:28:09</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_description</element>
+            <list_id display_value="u_meetings_import" element="NULL" name="u_meetings_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9fb02d27dbd7320023bfddd0cf9619c3</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-17 23:28:09</sys_created_on>
+            <sys_id>1fb02d27dbd7320023bfddd0cf9619c4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-17 23:28:09</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_status</element>
+            <list_id display_value="u_meetings_import" element="NULL" name="u_meetings_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9fb02d27dbd7320023bfddd0cf9619c3</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>6</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-17 23:28:09</sys_created_on>
+            <sys_id>9fb02d27dbd7320023bfddd0cf9619c4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-17 23:28:09</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_location</element>
+            <list_id display_value="u_meetings_import" element="NULL" name="u_meetings_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9fb02d27dbd7320023bfddd0cf9619c3</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>7</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-17 23:28:09</sys_created_on>
+            <sys_id>13b02d27dbd7320023bfddd0cf9619c5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-17 23:28:09</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_start_date_and_time</element>
+            <list_id display_value="u_meetings_import" element="NULL" name="u_meetings_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9fb02d27dbd7320023bfddd0cf9619c3</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>8</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-17 23:28:09</sys_created_on>
+            <sys_id>93b02d27dbd7320023bfddd0cf9619c5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-17 23:28:09</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_end_date_and_time</element>
+            <list_id display_value="u_meetings_import" element="NULL" name="u_meetings_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9fb02d27dbd7320023bfddd0cf9619c3</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>9</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-17 23:28:09</sys_created_on>
+            <sys_id>17b02d27dbd7320023bfddd0cf9619c5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-17 23:28:09</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_duration_hours</element>
+            <list_id display_value="u_meetings_import" element="NULL" name="u_meetings_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9fb02d27dbd7320023bfddd0cf9619c3</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>10</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-17 23:28:09</sys_created_on>
+            <sys_id>97b02d27dbd7320023bfddd0cf9619c5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-17 23:28:09</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_duration_minutes</element>
+            <list_id display_value="u_meetings_import" element="NULL" name="u_meetings_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9fb02d27dbd7320023bfddd0cf9619c3</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>11</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-17 23:28:09</sys_created_on>
+            <sys_id>1bb02d27dbd7320023bfddd0cf9619c5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-17 23:28:09</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_reminder_time__in_minutes_</element>
+            <list_id display_value="u_meetings_import" element="NULL" name="u_meetings_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9fb02d27dbd7320023bfddd0cf9619c3</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>12</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-17 23:28:09</sys_created_on>
+            <sys_id>9bb02d27dbd7320023bfddd0cf9619c5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-17 23:28:09</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_meeting_type</element>
+            <list_id display_value="u_meetings_import" element="NULL" name="u_meetings_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9fb02d27dbd7320023bfddd0cf9619c3</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>13</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-17 23:28:09</sys_created_on>
+            <sys_id>1fb02d27dbd7320023bfddd0cf9619c5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-17 23:28:09</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_external_id</element>
+            <list_id display_value="u_meetings_import" element="NULL" name="u_meetings_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9fb02d27dbd7320023bfddd0cf9619c3</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>14</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-17 23:28:09</sys_created_on>
+            <sys_id>9fb02d27dbd7320023bfddd0cf9619c5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-17 23:28:09</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_meeting_password</element>
+            <list_id display_value="u_meetings_import" element="NULL" name="u_meetings_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9fb02d27dbd7320023bfddd0cf9619c3</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>15</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-17 23:28:09</sys_created_on>
+            <sys_id>13b02d27dbd7320023bfddd0cf9619c6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-17 23:28:09</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_join_url</element>
+            <list_id display_value="u_meetings_import" element="NULL" name="u_meetings_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9fb02d27dbd7320023bfddd0cf9619c3</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>16</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-17 23:28:09</sys_created_on>
+            <sys_id>93b02d27dbd7320023bfddd0cf9619c6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-17 23:28:09</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_host_url</element>
+            <list_id display_value="u_meetings_import" element="NULL" name="u_meetings_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9fb02d27dbd7320023bfddd0cf9619c3</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>17</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-17 23:28:09</sys_created_on>
+            <sys_id>17b02d27dbd7320023bfddd0cf9619c6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-17 23:28:09</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_displayed_url</element>
+            <list_id display_value="u_meetings_import" element="NULL" name="u_meetings_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9fb02d27dbd7320023bfddd0cf9619c3</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>18</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-17 23:28:09</sys_created_on>
+            <sys_id>97b02d27dbd7320023bfddd0cf9619c6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-17 23:28:09</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_meeting_creator</element>
+            <list_id display_value="u_meetings_import" element="NULL" name="u_meetings_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9fb02d27dbd7320023bfddd0cf9619c3</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>19</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-17 23:28:09</sys_created_on>
+            <sys_id>1bb02d27dbd7320023bfddd0cf9619c6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-17 23:28:09</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_related_type</element>
+            <list_id display_value="u_meetings_import" element="NULL" name="u_meetings_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9fb02d27dbd7320023bfddd0cf9619c3</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>20</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-17 23:28:09</sys_created_on>
+            <sys_id>9bb02d27dbd7320023bfddd0cf9619c6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-17 23:28:09</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_parent_id</element>
+            <list_id display_value="u_meetings_import" element="NULL" name="u_meetings_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9fb02d27dbd7320023bfddd0cf9619c3</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>21</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-17 23:28:09</sys_created_on>
+            <sys_id>1fb02d27dbd7320023bfddd0cf9619c6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-17 23:28:09</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_outlook_id</element>
+            <list_id display_value="u_meetings_import" element="NULL" name="u_meetings_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9fb02d27dbd7320023bfddd0cf9619c3</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>22</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-17 23:28:09</sys_created_on>
+            <sys_id>9fb02d27dbd7320023bfddd0cf9619c6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-17 23:28:09</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_assigned_user_name</element>
+            <list_id display_value="u_meetings_import" element="NULL" name="u_meetings_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9fb02d27dbd7320023bfddd0cf9619c3</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>23</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-17 23:28:09</sys_created_on>
+            <sys_id>13b02d27dbd7320023bfddd0cf9619c7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-17 23:28:09</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_assigned_user_id</element>
+            <list_id display_value="u_meetings_import" element="NULL" name="u_meetings_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9fb02d27dbd7320023bfddd0cf9619c3</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>24</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-17 23:28:09</sys_created_on>
+            <sys_id>93b02d27dbd7320023bfddd0cf9619c7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-17 23:28:09</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_teams</element>
+            <list_id display_value="u_meetings_import" element="NULL" name="u_meetings_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9fb02d27dbd7320023bfddd0cf9619c3</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>25</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-17 23:28:09</sys_created_on>
+            <sys_id>17b02d27dbd7320023bfddd0cf9619c7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-17 23:28:09</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_team_id</element>
+            <list_id display_value="u_meetings_import" element="NULL" name="u_meetings_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9fb02d27dbd7320023bfddd0cf9619c3</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>26</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-17 23:28:09</sys_created_on>
+            <sys_id>97b02d27dbd7320023bfddd0cf9619c7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-17 23:28:09</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_team_set_id</element>
+            <list_id display_value="u_meetings_import" element="NULL" name="u_meetings_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9fb02d27dbd7320023bfddd0cf9619c3</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>27</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-17 23:28:09</sys_created_on>
+            <sys_id>1bb02d27dbd7320023bfddd0cf9619c7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-17 23:28:09</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_date_created</element>
+            <list_id display_value="u_meetings_import" element="NULL" name="u_meetings_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9fb02d27dbd7320023bfddd0cf9619c3</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>28</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-17 23:28:09</sys_created_on>
+            <sys_id>9bb02d27dbd7320023bfddd0cf9619c7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-17 23:28:09</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_date_modified</element>
+            <list_id display_value="u_meetings_import" element="NULL" name="u_meetings_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9fb02d27dbd7320023bfddd0cf9619c3</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>29</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-17 23:28:09</sys_created_on>
+            <sys_id>1fb02d27dbd7320023bfddd0cf9619c7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-17 23:28:09</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_created_by</element>
+            <list_id display_value="u_meetings_import" element="NULL" name="u_meetings_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9fb02d27dbd7320023bfddd0cf9619c3</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>30</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-17 23:28:09</sys_created_on>
+            <sys_id>9fb02d27dbd7320023bfddd0cf9619c7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-17 23:28:09</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_created_by_id</element>
+            <list_id display_value="u_meetings_import" element="NULL" name="u_meetings_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9fb02d27dbd7320023bfddd0cf9619c3</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>31</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-17 23:28:09</sys_created_on>
+            <sys_id>13b02d27dbd7320023bfddd0cf9619c8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-17 23:28:09</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_modified_by_name</element>
+            <list_id display_value="u_meetings_import" element="NULL" name="u_meetings_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9fb02d27dbd7320023bfddd0cf9619c3</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>32</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-17 23:28:09</sys_created_on>
+            <sys_id>93b02d27dbd7320023bfddd0cf9619c8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-17 23:28:09</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_modified_by_id</element>
+            <list_id display_value="u_meetings_import" element="NULL" name="u_meetings_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9fb02d27dbd7320023bfddd0cf9619c3</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>33</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-17 23:28:09</sys_created_on>
+            <sys_id>17b02d27dbd7320023bfddd0cf9619c8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-17 23:28:09</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_deleted</element>
+            <list_id display_value="u_meetings_import" element="NULL" name="u_meetings_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9fb02d27dbd7320023bfddd0cf9619c3</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>34</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-17 23:28:09</sys_created_on>
+            <sys_id>97b02d27dbd7320023bfddd0cf9619c8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-17 23:28:09</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_email_reminder_time</element>
+            <list_id display_value="u_meetings_import" element="NULL" name="u_meetings_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9fb02d27dbd7320023bfddd0cf9619c3</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>35</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-17 23:28:09</sys_created_on>
+            <sys_id>1bb02d27dbd7320023bfddd0cf9619c8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-17 23:28:09</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_email_reminder_sent</element>
+            <list_id display_value="u_meetings_import" element="NULL" name="u_meetings_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9fb02d27dbd7320023bfddd0cf9619c3</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>36</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-17 23:28:09</sys_created_on>
+            <sys_id>9bb02d27dbd7320023bfddd0cf9619c8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-17 23:28:09</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_meeting_update_sequence</element>
+            <list_id display_value="u_meetings_import" element="NULL" name="u_meetings_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9fb02d27dbd7320023bfddd0cf9619c3</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>37</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-17 23:28:09</sys_created_on>
+            <sys_id>1fb02d27dbd7320023bfddd0cf9619c8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-17 23:28:09</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_repeat_type</element>
+            <list_id display_value="u_meetings_import" element="NULL" name="u_meetings_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9fb02d27dbd7320023bfddd0cf9619c3</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>38</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-17 23:28:09</sys_created_on>
+            <sys_id>9fb02d27dbd7320023bfddd0cf9619c8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-17 23:28:09</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_repeat_interval</element>
+            <list_id display_value="u_meetings_import" element="NULL" name="u_meetings_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9fb02d27dbd7320023bfddd0cf9619c3</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>39</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-17 23:28:09</sys_created_on>
+            <sys_id>13b02d27dbd7320023bfddd0cf9619c9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-17 23:28:09</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_repeat_on_days_of_week</element>
+            <list_id display_value="u_meetings_import" element="NULL" name="u_meetings_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9fb02d27dbd7320023bfddd0cf9619c3</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>40</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-17 23:28:09</sys_created_on>
+            <sys_id>93b02d27dbd7320023bfddd0cf9619c9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-17 23:28:09</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_repeat_until</element>
+            <list_id display_value="u_meetings_import" element="NULL" name="u_meetings_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9fb02d27dbd7320023bfddd0cf9619c3</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>41</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-17 23:28:09</sys_created_on>
+            <sys_id>17b02d27dbd7320023bfddd0cf9619c9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-17 23:28:09</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_repeat_occurrences</element>
+            <list_id display_value="u_meetings_import" element="NULL" name="u_meetings_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9fb02d27dbd7320023bfddd0cf9619c3</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>42</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-17 23:28:09</sys_created_on>
+            <sys_id>97b02d27dbd7320023bfddd0cf9619c9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-17 23:28:09</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_repeat_selector</element>
+            <list_id display_value="u_meetings_import" element="NULL" name="u_meetings_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9fb02d27dbd7320023bfddd0cf9619c3</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>43</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-17 23:28:09</sys_created_on>
+            <sys_id>1bb02d27dbd7320023bfddd0cf9619c9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-17 23:28:09</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_day_s__of_month</element>
+            <list_id display_value="u_meetings_import" element="NULL" name="u_meetings_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9fb02d27dbd7320023bfddd0cf9619c3</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>44</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-17 23:28:09</sys_created_on>
+            <sys_id>9bb02d27dbd7320023bfddd0cf9619c9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-17 23:28:09</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_repeat_ordinal</element>
+            <list_id display_value="u_meetings_import" element="NULL" name="u_meetings_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9fb02d27dbd7320023bfddd0cf9619c3</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>45</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-17 23:28:09</sys_created_on>
+            <sys_id>1fb02d27dbd7320023bfddd0cf9619c9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-17 23:28:09</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_repeat_unit</element>
+            <list_id display_value="u_meetings_import" element="NULL" name="u_meetings_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9fb02d27dbd7320023bfddd0cf9619c3</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>46</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-17 23:28:09</sys_created_on>
+            <sys_id>9fb02d27dbd7320023bfddd0cf9619c9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-17 23:28:09</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_repeat_parent_id</element>
+            <list_id display_value="u_meetings_import" element="NULL" name="u_meetings_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9fb02d27dbd7320023bfddd0cf9619c3</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>47</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-17 23:28:09</sys_created_on>
+            <sys_id>13b02d27dbd7320023bfddd0cf9619ca</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-17 23:28:09</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_recurring_source</element>
+            <list_id display_value="u_meetings_import" element="NULL" name="u_meetings_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9fb02d27dbd7320023bfddd0cf9619c3</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>48</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-17 23:28:09</sys_created_on>
+            <sys_id>93b02d27dbd7320023bfddd0cf9619ca</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-17 23:28:09</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_tags</element>
+            <list_id display_value="u_meetings_import" element="NULL" name="u_meetings_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9fb02d27dbd7320023bfddd0cf9619c3</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>49</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-17 23:28:09</sys_created_on>
+            <sys_id>17b02d27dbd7320023bfddd0cf9619ca</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-17 23:28:09</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_selected_team_set_id</element>
+            <list_id display_value="u_meetings_import" element="NULL" name="u_meetings_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9fb02d27dbd7320023bfddd0cf9619c3</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>50</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-17 23:28:09</sys_created_on>
+            <sys_id>97b02d27dbd7320023bfddd0cf9619ca</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-17 23:28:09</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_selected_teams</element>
+            <list_id display_value="u_meetings_import" element="NULL" name="u_meetings_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9fb02d27dbd7320023bfddd0cf9619c3</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>51</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-17 23:28:09</sys_created_on>
+            <sys_id>1bb02d27dbd7320023bfddd0cf9619ca</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-17 23:28:09</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_customer_journey_order</element>
+            <list_id display_value="u_meetings_import" element="NULL" name="u_meetings_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9fb02d27dbd7320023bfddd0cf9619c3</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>52</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-17 23:28:09</sys_created_on>
+            <sys_id>9bb02d27dbd7320023bfddd0cf9619ca</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-17 23:28:09</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_customer_journey_points</element>
+            <list_id display_value="u_meetings_import" element="NULL" name="u_meetings_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9fb02d27dbd7320023bfddd0cf9619c3</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>53</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-17 23:28:09</sys_created_on>
+            <sys_id>1fb02d27dbd7320023bfddd0cf9619ca</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-17 23:28:09</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_is_customer_journey_meeting</element>
+            <list_id display_value="u_meetings_import" element="NULL" name="u_meetings_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9fb02d27dbd7320023bfddd0cf9619c3</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>54</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-17 23:28:09</sys_created_on>
+            <sys_id>9fb02d27dbd7320023bfddd0cf9619ca</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-17 23:28:09</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_customer_jou_ivity_template</element>
+            <list_id display_value="u_meetings_import" element="NULL" name="u_meetings_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9fb02d27dbd7320023bfddd0cf9619c3</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>55</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-17 23:28:09</sys_created_on>
+            <sys_id>13b02d27dbd7320023bfddd0cf9619cb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-17 23:28:09</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_customer_journey_stage</element>
+            <list_id display_value="u_meetings_import" element="NULL" name="u_meetings_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9fb02d27dbd7320023bfddd0cf9619c3</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>56</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-17 23:28:09</sys_created_on>
+            <sys_id>93b02d27dbd7320023bfddd0cf9619cb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-17 23:28:09</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_target_table</element>
+            <list_id display_value="u_meetings_import" element="NULL" name="u_meetings_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9fb02d27dbd7320023bfddd0cf9619c3</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>57</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-17 23:28:09</sys_created_on>
+            <sys_id>17b02d27dbd7320023bfddd0cf9619cb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-17 23:28:09</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_target_sys_id</element>
+            <list_id display_value="u_meetings_import" element="NULL" name="u_meetings_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9fb02d27dbd7320023bfddd0cf9619c3</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>58</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-17 23:28:09</sys_created_on>
+            <sys_id>97b02d27dbd7320023bfddd0cf9619cb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-17 23:28:09</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_row_error</element>
+            <list_id display_value="u_meetings_import" element="NULL" name="u_meetings_import" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9fb02d27dbd7320023bfddd0cf9619c3</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>59</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-17 23:28:09</sys_created_on>
+            <sys_id>1bb02d27dbd7320023bfddd0cf9619cb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-17 23:28:09</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>u_meetings_import</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-17 23:28:09</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9fb02d27dbd7320023bfddd0cf9619c3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_meetings_import</sys_name>
+            <sys_package display_value="CRMNow" source="x_129382_crmnow">adfaaf81db13320023bfddd0cf9619d7</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="CRMNow">adfaaf81db13320023bfddd0cf9619d7</sys_scope>
+            <sys_update_name>sys_ui_list_u_meetings_import_null</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-17 23:28:09</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

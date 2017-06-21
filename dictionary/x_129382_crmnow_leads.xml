@@ -50,6 +50,7 @@
         <element choice="1" default="Employee" label="Lead source" max_length="40" name="u_lead_source" type="choice">
             <choice>
                 <element label="Cold Call" sequence="0" value="Cold Call"/>
+                <element label="Web Site" sequence="0" value="Web Site"/>
                 <element label="Existing Customer" sequence="1" value="Existing Customer"/>
                 <element label="Self Generated" sequence="2" value="Self Generated"/>
                 <element label="Employee" sequence="3" value="Employee"/>

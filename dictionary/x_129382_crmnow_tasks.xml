@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element extends="task" label="Tasks" max_length="40" name="x_129382_crmnow_tasks" sizeclass="1" type="collection"/>
+    <element extends="task" label="Tasks" max_length="40" name="x_129382_crmnow_tasks" sizeclass="291" type="collection"/>
 </database>

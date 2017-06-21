@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_grid_canvas_pane">
+    <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+        <grid_canvas display_value="PA Open Incidents Pivot">b8396363db1f320023bfddd0cf961937</grid_canvas>
+        <height>3</height>
+        <portal_widget display_value="Created 26/10/2015 16:04:20">11833992d7d30200b96d45a3ce610329</portal_widget>
+        <posx>0</posx>
+        <posy>0</posy>
+        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-06-18 09:24:21</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>f4396363db1f320023bfddd0cf961939</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>b8396363db1f320023bfddd0cf961937</sys_name>
+        <sys_package display_value="CRMNow" source="x_129382_crmnow">adfaaf81db13320023bfddd0cf9619d7</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="CRMNow">adfaaf81db13320023bfddd0cf9619d7</sys_scope>
+        <sys_update_name>sys_grid_canvas_pane_f4396363db1f320023bfddd0cf961939</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-06-18 09:24:24</sys_updated_on>
+        <width>10</width>
+    </sys_grid_canvas_pane>
+</record_update>

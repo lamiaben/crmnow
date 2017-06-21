@@ -4,197 +4,212 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>number</element>
-            <list_id display_value="x_129382_crmnow_opportunities" element="NULL" name="x_129382_crmnow_opportunities" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">db3d720edb97320023bfddd0cf961939</list_id>
+            <list_id display_value="x_129382_crmnow_opportunities" element="NULL" name="x_129382_crmnow_opportunities" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9bf39d6fdb97320023bfddd0cf961916</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>0</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-06-13 14:21:23</sys_created_on>
-            <sys_id>533d720edb97320023bfddd0cf96193a</sys_id>
+            <sys_created_on>2017-06-17 22:32:27</sys_created_on>
+            <sys_id>13f39d6fdb97320023bfddd0cf961917</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-06-13 14:21:23</sys_updated_on>
+            <sys_updated_on>2017-06-17 22:32:27</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>u_short_description</element>
-            <list_id display_value="x_129382_crmnow_opportunities" element="NULL" name="x_129382_crmnow_opportunities" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">db3d720edb97320023bfddd0cf961939</list_id>
+            <list_id display_value="x_129382_crmnow_opportunities" element="NULL" name="x_129382_crmnow_opportunities" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9bf39d6fdb97320023bfddd0cf961916</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>1</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-06-13 14:21:23</sys_created_on>
-            <sys_id>d33d720edb97320023bfddd0cf96193a</sys_id>
+            <sys_created_on>2017-06-17 22:32:27</sys_created_on>
+            <sys_id>93f39d6fdb97320023bfddd0cf961917</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-06-13 14:21:23</sys_updated_on>
+            <sys_updated_on>2017-06-17 22:32:27</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>account_name.u_short_description</element>
-            <list_id display_value="x_129382_crmnow_opportunities" element="NULL" name="x_129382_crmnow_opportunities" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">db3d720edb97320023bfddd0cf961939</list_id>
+            <list_id display_value="x_129382_crmnow_opportunities" element="NULL" name="x_129382_crmnow_opportunities" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9bf39d6fdb97320023bfddd0cf961916</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>2</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-06-13 14:21:23</sys_created_on>
-            <sys_id>573d720edb97320023bfddd0cf96193a</sys_id>
+            <sys_created_on>2017-06-17 22:32:27</sys_created_on>
+            <sys_id>17f39d6fdb97320023bfddd0cf961917</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-06-13 14:21:23</sys_updated_on>
+            <sys_updated_on>2017-06-17 22:32:27</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>status</element>
-            <list_id display_value="x_129382_crmnow_opportunities" element="NULL" name="x_129382_crmnow_opportunities" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">db3d720edb97320023bfddd0cf961939</list_id>
+            <element>account_name.number</element>
+            <list_id display_value="x_129382_crmnow_opportunities" element="NULL" name="x_129382_crmnow_opportunities" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9bf39d6fdb97320023bfddd0cf961916</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>3</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-06-13 14:21:23</sys_created_on>
-            <sys_id>d73d720edb97320023bfddd0cf96193a</sys_id>
+            <sys_created_on>2017-06-17 22:32:27</sys_created_on>
+            <sys_id>97f39d6fdb97320023bfddd0cf961917</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-06-13 14:21:23</sys_updated_on>
+            <sys_updated_on>2017-06-17 22:32:27</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>likely</element>
-            <list_id display_value="x_129382_crmnow_opportunities" element="NULL" name="x_129382_crmnow_opportunities" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">db3d720edb97320023bfddd0cf961939</list_id>
+            <element>status</element>
+            <list_id display_value="x_129382_crmnow_opportunities" element="NULL" name="x_129382_crmnow_opportunities" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9bf39d6fdb97320023bfddd0cf961916</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>4</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-06-13 14:21:23</sys_created_on>
-            <sys_id>5b3d720edb97320023bfddd0cf96193a</sys_id>
+            <sys_created_on>2017-06-17 22:32:27</sys_created_on>
+            <sys_id>1bf39d6fdb97320023bfddd0cf961917</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-06-13 14:21:23</sys_updated_on>
+            <sys_updated_on>2017-06-17 22:32:27</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>opportunity_type</element>
-            <list_id display_value="x_129382_crmnow_opportunities" element="NULL" name="x_129382_crmnow_opportunities" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">db3d720edb97320023bfddd0cf961939</list_id>
+            <element>likely</element>
+            <list_id display_value="x_129382_crmnow_opportunities" element="NULL" name="x_129382_crmnow_opportunities" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9bf39d6fdb97320023bfddd0cf961916</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>5</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-06-13 14:21:23</sys_created_on>
-            <sys_id>db3d720edb97320023bfddd0cf96193a</sys_id>
+            <sys_created_on>2017-06-17 22:32:27</sys_created_on>
+            <sys_id>9bf39d6fdb97320023bfddd0cf961917</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-06-13 14:21:23</sys_updated_on>
+            <sys_updated_on>2017-06-17 22:32:27</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>expected_close_date</element>
-            <list_id display_value="x_129382_crmnow_opportunities" element="NULL" name="x_129382_crmnow_opportunities" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">db3d720edb97320023bfddd0cf961939</list_id>
+            <element>opportunity_type</element>
+            <list_id display_value="x_129382_crmnow_opportunities" element="NULL" name="x_129382_crmnow_opportunities" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9bf39d6fdb97320023bfddd0cf961916</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>6</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-06-13 14:21:23</sys_created_on>
-            <sys_id>5f3d720edb97320023bfddd0cf96193a</sys_id>
+            <sys_created_on>2017-06-17 22:32:27</sys_created_on>
+            <sys_id>1ff39d6fdb97320023bfddd0cf961917</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-06-13 14:21:23</sys_updated_on>
+            <sys_updated_on>2017-06-17 22:32:27</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>next_step</element>
-            <list_id display_value="x_129382_crmnow_opportunities" element="NULL" name="x_129382_crmnow_opportunities" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">db3d720edb97320023bfddd0cf961939</list_id>
+            <element>expected_close_date</element>
+            <list_id display_value="x_129382_crmnow_opportunities" element="NULL" name="x_129382_crmnow_opportunities" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9bf39d6fdb97320023bfddd0cf961916</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>7</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-06-13 14:21:23</sys_created_on>
-            <sys_id>df3d720edb97320023bfddd0cf96193a</sys_id>
+            <sys_created_on>2017-06-17 22:32:27</sys_created_on>
+            <sys_id>9ff39d6fdb97320023bfddd0cf961917</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-06-13 14:21:23</sys_updated_on>
+            <sys_updated_on>2017-06-17 22:32:27</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>lead_source</element>
-            <list_id display_value="x_129382_crmnow_opportunities" element="NULL" name="x_129382_crmnow_opportunities" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">db3d720edb97320023bfddd0cf961939</list_id>
+            <element>next_step</element>
+            <list_id display_value="x_129382_crmnow_opportunities" element="NULL" name="x_129382_crmnow_opportunities" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9bf39d6fdb97320023bfddd0cf961916</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>8</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-06-13 14:21:23</sys_created_on>
-            <sys_id>533d720edb97320023bfddd0cf96193b</sys_id>
+            <sys_created_on>2017-06-17 22:32:27</sys_created_on>
+            <sys_id>13f39d6fdb97320023bfddd0cf961918</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-06-13 14:21:23</sys_updated_on>
+            <sys_updated_on>2017-06-17 22:32:27</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>sys_created_on</element>
-            <list_id display_value="x_129382_crmnow_opportunities" element="NULL" name="x_129382_crmnow_opportunities" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">db3d720edb97320023bfddd0cf961939</list_id>
+            <element>lead_source</element>
+            <list_id display_value="x_129382_crmnow_opportunities" element="NULL" name="x_129382_crmnow_opportunities" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9bf39d6fdb97320023bfddd0cf961916</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>9</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-06-13 14:21:23</sys_created_on>
-            <sys_id>d33d720edb97320023bfddd0cf96193b</sys_id>
+            <sys_created_on>2017-06-17 22:32:27</sys_created_on>
+            <sys_id>93f39d6fdb97320023bfddd0cf961918</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-06-13 14:21:23</sys_updated_on>
+            <sys_updated_on>2017-06-17 22:32:27</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>sys_created_by</element>
-            <list_id display_value="x_129382_crmnow_opportunities" element="NULL" name="x_129382_crmnow_opportunities" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">db3d720edb97320023bfddd0cf961939</list_id>
+            <element>sys_created_on</element>
+            <list_id display_value="x_129382_crmnow_opportunities" element="NULL" name="x_129382_crmnow_opportunities" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9bf39d6fdb97320023bfddd0cf961916</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>10</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-06-13 14:21:23</sys_created_on>
-            <sys_id>573d720edb97320023bfddd0cf96193b</sys_id>
+            <sys_created_on>2017-06-17 22:32:27</sys_created_on>
+            <sys_id>17f39d6fdb97320023bfddd0cf961918</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-06-13 14:21:23</sys_updated_on>
+            <sys_updated_on>2017-06-17 22:32:27</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>sys_updated_on</element>
-            <list_id display_value="x_129382_crmnow_opportunities" element="NULL" name="x_129382_crmnow_opportunities" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">db3d720edb97320023bfddd0cf961939</list_id>
+            <element>sys_created_by</element>
+            <list_id display_value="x_129382_crmnow_opportunities" element="NULL" name="x_129382_crmnow_opportunities" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9bf39d6fdb97320023bfddd0cf961916</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>11</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-06-13 14:21:23</sys_created_on>
-            <sys_id>d73d720edb97320023bfddd0cf96193b</sys_id>
+            <sys_created_on>2017-06-17 22:32:27</sys_created_on>
+            <sys_id>97f39d6fdb97320023bfddd0cf961918</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-06-13 14:21:23</sys_updated_on>
+            <sys_updated_on>2017-06-17 22:32:27</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>sys_updated_by</element>
-            <list_id display_value="x_129382_crmnow_opportunities" element="NULL" name="x_129382_crmnow_opportunities" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">db3d720edb97320023bfddd0cf961939</list_id>
+            <element>sys_updated_on</element>
+            <list_id display_value="x_129382_crmnow_opportunities" element="NULL" name="x_129382_crmnow_opportunities" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9bf39d6fdb97320023bfddd0cf961916</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>12</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-06-13 14:21:23</sys_created_on>
-            <sys_id>5b3d720edb97320023bfddd0cf96193b</sys_id>
+            <sys_created_on>2017-06-17 22:32:27</sys_created_on>
+            <sys_id>1bf39d6fdb97320023bfddd0cf961918</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-06-13 14:21:23</sys_updated_on>
+            <sys_updated_on>2017-06-17 22:32:27</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_updated_by</element>
+            <list_id display_value="x_129382_crmnow_opportunities" element="NULL" name="x_129382_crmnow_opportunities" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">9bf39d6fdb97320023bfddd0cf961916</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>13</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-17 22:32:27</sys_created_on>
+            <sys_id>9bf39d6fdb97320023bfddd0cf961918</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-17 22:32:27</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
@@ -208,11 +223,11 @@
             <sum>false</sum>
             <sys_class_name>sys_ui_list</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-06-13 14:21:23</sys_created_on>
+            <sys_created_on>2017-06-17 22:32:27</sys_created_on>
             <sys_customer_update>true</sys_customer_update>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>db3d720edb97320023bfddd0cf961939</sys_id>
+            <sys_id>9bf39d6fdb97320023bfddd0cf961916</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>x_129382_crmnow_opportunities</sys_name>
             <sys_package display_value="CRMNow" source="x_129382_crmnow">adfaaf81db13320023bfddd0cf9619d7</sys_package>
@@ -221,7 +236,7 @@
             <sys_scope display_value="CRMNow">adfaaf81db13320023bfddd0cf9619d7</sys_scope>
             <sys_update_name>sys_ui_list_x_129382_crmnow_opportunities_null</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-06-13 14:21:23</sys_updated_on>
+            <sys_updated_on>2017-06-17 22:32:27</sys_updated_on>
             <sys_user/>
             <view display_value="Default view" name="NULL">Default view</view>
             <view_name/>

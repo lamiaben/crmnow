@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="sys_import_set_row" label="calls_import" max_length="40" name="u_calls_import" type="collection">
+        <element attributes="import_attribute_name=Assigned User,edge_encryption_enabled=true" label="Assigned User" max_length="40" name="u_assigned_user" type="string"/>
+        <element attributes="import_attribute_name=Assigned User ID,edge_encryption_enabled=true" label="Assigned User ID" max_length="40" name="u_assigned_user_id" type="string"/>
+        <element attributes="import_attribute_name=Created By,edge_encryption_enabled=true" label="Created By" max_length="40" name="u_created_by" type="string"/>
+        <element attributes="import_attribute_name=Created By ID,edge_encryption_enabled=true" label="Created By ID" max_length="40" name="u_created_by_id" type="string"/>
+        <element attributes="import_attribute_name=Customer Journey Order,edge_encryption_enabled=true" label="Customer Journey Order" max_length="40" name="u_customer_journey_order" type="string"/>
+        <element attributes="import_attribute_name=Customer Journey Points,edge_encryption_enabled=true" label="Customer Journey Points" max_length="40" name="u_customer_journey_points" type="string"/>
+        <element attributes="import_attribute_name=Customer Journey Stage,edge_encryption_enabled=true" label="Customer Journey Stage" max_length="40" name="u_customer_journey_stage" type="string"/>
+        <element attributes="import_attribute_name=Customer Journey Activity Template,edge_encryption_enabled=true" label="Customer Journey Activity Template" max_length="40" name="u_customer_jou_ivity_template" type="string"/>
+        <element attributes="import_attribute_name=Date Created,edge_encryption_enabled=true" label="Date Created" max_length="40" name="u_date_created" type="string"/>
+        <element attributes="import_attribute_name=Date Modified,edge_encryption_enabled=true" label="Date Modified" max_length="40" name="u_date_modified" type="string"/>
+        <element attributes="import_attribute_name=Day(s) of Month,edge_encryption_enabled=true" label="Day(s) of Month" max_length="40" name="u_day_s__of_month" type="string"/>
+        <element attributes="import_attribute_name=Deleted,edge_encryption_enabled=true" label="Deleted" max_length="40" name="u_deleted" type="string"/>
+        <element attributes="import_attribute_name=Description,edge_encryption_enabled=true" label="Description" max_length="40" name="u_description" type="string"/>
+        <element attributes="import_attribute_name=Direction,edge_encryption_enabled=true" label="Direction" max_length="40" name="u_direction" type="string"/>
+        <element attributes="import_attribute_name=Duration Hours,edge_encryption_enabled=true" label="Duration Hours" max_length="40" name="u_duration_hours" type="string"/>
+        <element attributes="import_attribute_name=Duration Minutes,edge_encryption_enabled=true" label="Duration Minutes" max_length="40" name="u_duration_minutes" type="string"/>
+        <element attributes="import_attribute_name=Email reminder sent,edge_encryption_enabled=true" label="Email reminder sent" max_length="40" name="u_email_reminder_sent" type="string"/>
+        <element attributes="import_attribute_name=Email Reminder Time,edge_encryption_enabled=true" label="Email Reminder Time" max_length="40" name="u_email_reminder_time" type="string"/>
+        <element attributes="import_attribute_name=End Date,edge_encryption_enabled=true" label="End Date" max_length="40" name="u_end_date" type="string"/>
+        <element attributes="import_attribute_name=ID,edge_encryption_enabled=true" label="ID" max_length="40" name="u_id" type="string"/>
+        <element attributes="import_attribute_name=Is Customer Journey Call,edge_encryption_enabled=true" label="Is Customer Journey Call" max_length="40" name="u_is_customer_journey_call" type="string"/>
+        <element attributes="import_attribute_name=Modified By ID,edge_encryption_enabled=true" label="Modified By ID" max_length="40" name="u_modified_by_id" type="string"/>
+        <element attributes="import_attribute_name=Modified By Name,edge_encryption_enabled=true" label="Modified By Name" max_length="40" name="u_modified_by_name" type="string"/>
+        <element attributes="import_attribute_name=Outlook ID,edge_encryption_enabled=true" label="Outlook ID" max_length="40" name="u_outlook_id" type="string"/>
+        <element attributes="import_attribute_name=Recurring Source,edge_encryption_enabled=true" label="Recurring Source" max_length="40" name="u_recurring_source" type="string"/>
+        <element attributes="import_attribute_name=Related to ID,edge_encryption_enabled=true" label="Related to ID" max_length="40" name="u_related_to_id" type="string"/>
+        <element attributes="import_attribute_name=Related To Module,edge_encryption_enabled=true" label="Related To Module" max_length="40" name="u_related_to_module" type="string"/>
+        <element attributes="import_attribute_name=Reminder Time (in minutes),edge_encryption_enabled=true" label="Reminder Time (in minutes)" max_length="40" name="u_reminder_time__in_minutes_" type="string"/>
+        <element attributes="import_attribute_name=Repeat Interval,edge_encryption_enabled=true" label="Repeat Interval" max_length="40" name="u_repeat_interval" type="string"/>
+        <element attributes="import_attribute_name=Repeat Occurrences,edge_encryption_enabled=true" label="Repeat Occurrences" max_length="40" name="u_repeat_occurrences" type="string"/>
+        <element attributes="import_attribute_name=Repeat on Days of Week,edge_encryption_enabled=true" label="Repeat on Days of Week" max_length="40" name="u_repeat_on_days_of_week" type="string"/>
+        <element attributes="import_attribute_name=Repeat Ordinal,edge_encryption_enabled=true" label="Repeat Ordinal" max_length="40" name="u_repeat_ordinal" type="string"/>
+        <element attributes="import_attribute_name=Repeat Parent ID,edge_encryption_enabled=true" label="Repeat Parent ID" max_length="40" name="u_repeat_parent_id" type="string"/>
+        <element attributes="import_attribute_name=Repeat Selector,edge_encryption_enabled=true" label="Repeat Selector" max_length="40" name="u_repeat_selector" type="string"/>
+        <element attributes="import_attribute_name=Repeat Type,edge_encryption_enabled=true" label="Repeat Type" max_length="40" name="u_repeat_type" type="string"/>
+        <element attributes="import_attribute_name=Repeat Unit,edge_encryption_enabled=true" label="Repeat Unit" max_length="40" name="u_repeat_unit" type="string"/>
+        <element attributes="import_attribute_name=Repeat Until,edge_encryption_enabled=true" label="Repeat Until" max_length="40" name="u_repeat_until" type="string"/>
+        <element attributes="import_attribute_name=Selected Teams,edge_encryption_enabled=true" label="Selected Teams" max_length="40" name="u_selected_teams" type="string"/>
+        <element attributes="import_attribute_name=Selected Team Set ID,edge_encryption_enabled=true" label="Selected Team Set ID" max_length="40" name="u_selected_team_set_id" type="string"/>
+        <element attributes="import_attribute_name=Start Date and Time,edge_encryption_enabled=true" label="Start Date and Time" max_length="40" name="u_start_date_and_time" type="string"/>
+        <element attributes="import_attribute_name=Status,edge_encryption_enabled=true" label="Status" max_length="40" name="u_status" type="string"/>
+        <element attributes="import_attribute_name=Subject,edge_encryption_enabled=true" label="Subject" max_length="41" name="u_subject" type="string"/>
+        <element attributes="import_attribute_name=Tags,edge_encryption_enabled=true" label="Tags" max_length="40" name="u_tags" type="string"/>
+        <element attributes="import_attribute_name=Teams,edge_encryption_enabled=true" label="Teams" max_length="40" name="u_teams" type="string"/>
+        <element attributes="import_attribute_name=Team ID,edge_encryption_enabled=true" label="Team ID" max_length="40" name="u_team_id" type="string"/>
+        <element attributes="import_attribute_name=Team Set ID,edge_encryption_enabled=true" label="Team Set ID" max_length="40" name="u_team_set_id" type="string"/>
+    </element>
+</database>
